@@ -1,0 +1,160 @@
+/* ::::: http://beautytesters.co.uk/counter003.css ::::: */
+
+/* ::::: http://beautytesters.co.uk/widget095.css ::::: */
+
+/* ::::: http://beautytesters.co.uk/include/css/rotate.css ::::: */
+
+.carousel .dealSearch { background: none repeat scroll 0px 0px transparent; border-radius: 10px; clear: both; float: left; text-align: center; width: 100%; }
+.carousel #loadMessage, .carousel #finishedMessage { color: rgb(215, 69, 93); display: block; font-family: Georgia,times,san-serif; font-size: 22px; }
+.carousel .dealSearch { text-align: center; }
+.carousel #rotating-item-wrapper { height: 240px; margin: 0px auto; position: relative; text-align: center; top: 40px; width: 240px; }
+.carousel #pb { margin: 0px auto; width: 400px; }
+.carousel #progression { font-family: arial,sans-serif; font-weight: 700; height: 50px; margin: 10px auto; }
+.carousel #step1, .carousel #step2, .carousel #step3 { background-color: rgb(102, 102, 102); border-radius: 10px; color: rgb(255, 255, 255); float: left; font-family: arial,sans-serif; font-weight: 700; height: 44px; margin: 0px 5px; padding: 14px 3px 3px; width: 160px; }
+.carousel #step1 p, .carousel #step2 p, .carousel #step3 p { line-height: 1; margin: 0px; vertical-align: middle; }
+.carousel img { border: 0px none; min-height: 180px; }
+.carousel .rotating-item { display: none; height: 200px; left: 0px; position: absolute; top: 0px; width: 230px; }
+/* ::::: http://beautytesters.co.uk/include/css/bootstrap-combined.min.css ::::: */
+
+article, aside, details, figcaption, figure, footer, header, hgroup, nav, section { display: block; }
+audio:not([controls]) { display: none; }
+html { font-size: 100%; }
+a:focus { outline: thin dotted rgb(51, 51, 51); outline-offset: -2px; }
+a:hover, a:active { outline: 0px none; }
+img { height: auto; max-width: 100%; vertical-align: middle; border: 0px none; }
+button, input, select, textarea { margin: 0px; font-size: 100%; vertical-align: middle; }
+button, input { line-height: normal; }
+button::-moz-focus-inner, input::-moz-focus-inner { padding: 0px; border: 0px none; }
+button, html input[type="button"], input[type="reset"], input[type="submit"] { cursor: pointer; }
+label, select, button, input[type="button"], input[type="reset"], input[type="submit"], input[type="radio"], input[type="checkbox"] { cursor: pointer; }
+body { margin: 0px; font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 14px; line-height: 20px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); }
+a { color: rgb(0, 136, 204); text-decoration: none; }
+a:hover { color: rgb(0, 85, 128); text-decoration: underline; }
+.row { margin-left: -20px; }
+.row:before, .row:after { display: table; line-height: 0; content: ""; }
+.row:after { clear: both; }
+[class*="span"] { float: left; min-height: 1px; margin-left: 20px; }
+.container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container { width: 940px; }
+.span12 { width: 940px; }
+.span7 { width: 540px; }
+.span6 { width: 460px; }
+.span4 { width: 300px; }
+.container { margin-right: auto; margin-left: auto; }
+.container:before, .container:after { display: table; line-height: 0; content: ""; }
+.container:after { clear: both; }
+p { margin: 0px 0px 10px; }
+small { font-size: 85%; }
+h1, h2, h3, h4, h5, h6 { margin: 10px 0px; font-family: inherit; font-weight: bold; line-height: 20px; color: inherit; text-rendering: optimizelegibility; }
+h1, h2, h3 { line-height: 40px; }
+h1 { font-size: 38.5px; }
+h3 { font-size: 24.5px; }
+h4 { font-size: 17.5px; }
+ul, ol { padding: 0px; margin: 0px 0px 10px 25px; }
+li { line-height: 20px; }
+blockquote { padding: 0px 0px 0px 15px; margin: 0px 0px 20px; border-left: 5px solid rgb(238, 238, 238); }
+blockquote p { margin-bottom: 0px; font-size: 16px; font-weight: 300; line-height: 25px; }
+blockquote small { display: block; line-height: 20px; color: rgb(153, 153, 153); }
+blockquote small:before { content: "— "; }
+q:before, q:after, blockquote:before, blockquote:after { content: ""; }
+form { margin: 0px 0px 20px; }
+label, input, button, select, textarea { font-size: 14px; font-weight: normal; line-height: 20px; }
+input, button, select, textarea { font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; }
+label { display: block; margin-bottom: 5px; }
+input, textarea, .uneditable-input { width: 206px; }
+input[type="radio"], input[type="checkbox"] { margin: 4px 0px 0px; line-height: normal; }
+input[type="file"], input[type="image"], input[type="submit"], input[type="reset"], input[type="button"], input[type="radio"], input[type="checkbox"] { width: auto; }
+select:focus, input[type="file"]:focus, input[type="radio"]:focus, input[type="checkbox"]:focus { outline: thin dotted rgb(51, 51, 51); outline-offset: -2px; }
+input:-moz-placeholder, textarea:-moz-placeholder { color: rgb(153, 153, 153); }
+.radio, .checkbox { min-height: 20px; padding-left: 20px; }
+.radio input[type="radio"], .checkbox input[type="checkbox"] { float: left; margin-left: -20px; }
+input, textarea, .uneditable-input { margin-left: 0px; }
+input:focus:invalid, textarea:focus:invalid, select:focus:invalid { color: rgb(185, 74, 72); border-color: rgb(238, 95, 91); }
+input:focus:invalid:focus, textarea:focus:invalid:focus, select:focus:invalid:focus { border-color: rgb(233, 50, 45); box-shadow: 0px 0px 6px rgb(248, 185, 183); }
+.table-striped tbody > tr:nth-child(2n+1) > td, .table-striped tbody > tr:nth-child(2n+1) > th { background-color: rgb(249, 249, 249); }
+.fade { opacity: 0; transition: opacity 0.15s linear 0s; }
+.close { float: right; font-size: 20px; font-weight: bold; line-height: 20px; color: rgb(0, 0, 0); text-shadow: 0px 1px 0px rgb(255, 255, 255); opacity: 0.2; }
+.close:hover { color: rgb(0, 0, 0); text-decoration: none; cursor: pointer; opacity: 0.4; }
+button.close { padding: 0px; cursor: pointer; background: none repeat scroll 0% 0% transparent; border: 0px none; }
+button.btn::-moz-focus-inner, input.btn[type="submit"]::-moz-focus-inner { padding: 0px; border: 0px none; }
+.navbar { margin-bottom: 20px; overflow: visible; }
+.navbar-inner { min-height: 40px; padding-right: 20px; padding-left: 20px; background-color: rgb(250, 250, 250); background-image: linear-gradient(to bottom, rgb(255, 255, 255), rgb(242, 242, 242)); background-repeat: repeat-x; border: 1px solid rgb(212, 212, 212); border-radius: 4px; box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.067); }
+.navbar-inner:before, .navbar-inner:after { display: table; line-height: 0; content: ""; }
+.navbar-inner:after { clear: both; }
+.navbar .container { width: auto; }
+.navbar-fixed-top, .navbar-fixed-bottom { position: fixed; right: 0px; left: 0px; z-index: 1030; margin-bottom: 0px; }
+.navbar-fixed-top .navbar-inner, .navbar-static-top .navbar-inner { border-width: 0px 0px 1px; }
+.navbar-fixed-top .navbar-inner, .navbar-fixed-bottom .navbar-inner { padding-right: 0px; padding-left: 0px; border-radius: 0px; }
+.navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container { width: 940px; }
+.navbar-fixed-top { top: 0px; }
+.navbar-fixed-top .navbar-inner, .navbar-static-top .navbar-inner { box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1); }
+.modal { position: fixed; top: 10%; left: 50%; z-index: 1050; width: 560px; margin-left: -280px; background-color: rgb(255, 255, 255); border: 1px solid rgba(0, 0, 0, 0.3); border-radius: 6px; outline: 0px none; box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.3); background-clip: padding-box; }
+.modal.fade { top: -25%; transition: opacity 0.3s linear 0s, top 0.3s ease-out 0s; }
+.modal-header { padding: 9px 15px; border-bottom: 1px solid rgb(238, 238, 238); }
+.modal-header .close { margin-top: 2px; }
+.modal-body { position: relative; max-height: 400px; padding: 15px; overflow-y: auto; }
+.label, .badge { display: inline-block; padding: 2px 4px; font-size: 11.844px; font-weight: bold; line-height: 14px; color: rgb(255, 255, 255); text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.25); white-space: nowrap; vertical-align: baseline; background-color: rgb(153, 153, 153); }
+.label { border-radius: 3px; }
+.label:empty, .badge:empty { display: none; }
+.label-important, .badge-important { background-color: rgb(185, 74, 72); }
+.progress { height: 20px; margin-bottom: 20px; overflow: hidden; background-color: rgb(247, 247, 247); background-image: linear-gradient(to bottom, rgb(245, 245, 245), rgb(249, 249, 249)); background-repeat: repeat-x; border-radius: 4px; box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1) inset; }
+.progress .bar { float: left; width: 0px; height: 100%; font-size: 12px; color: rgb(255, 255, 255); text-align: center; text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.25); background-color: rgb(14, 144, 210); background-image: linear-gradient(to bottom, rgb(20, 155, 223), rgb(4, 128, 190)); background-repeat: repeat-x; box-shadow: 0px -1px 0px rgba(0, 0, 0, 0.15) inset; box-sizing: border-box; transition: width 0.6s ease 0s; }
+.progress-striped .bar { background-color: rgb(20, 155, 223); background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent); background-size: 40px 40px; }
+.progress-success .bar, .progress .bar-success { background-color: rgb(94, 185, 94); background-image: linear-gradient(to bottom, rgb(98, 196, 98), rgb(87, 169, 87)); background-repeat: repeat-x; }
+.progress-success.progress-striped .bar, .progress-striped .bar-success { background-color: rgb(98, 196, 98); background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent); }
+.carousel { position: relative; margin-bottom: 20px; line-height: 1; }
+.hide { display: none; }
+/* ::::: http://beautytesters.co.uk/include/css/jquery-ui.css ::::: */
+
+button.ui-button::-moz-focus-inner { border: 0px none; padding: 0px; }
+/* ::::: http://beautytesters.co.uk/include/css/bootstrap-responsive.min.css ::::: */
+
+/* ::::: http://beautytesters.co.uk/include/css/dev.min.css ::::: */
+
+body { background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+.corners { border-radius: 6px; }
+.title-font { font-family: Viga,sans-serif; font-weight: 400; }
+.mod-box { border: 2px solid rgb(255, 255, 255); border-radius: 7px; background: none repeat scroll 0% 0% rgb(240, 241, 242); box-shadow: 0px 0px 0px 1px rgba(0, 0, 2, 0.1), 0px 1px 0px rgba(0, 0, 2, 0.15), 0px 1px 1px rgba(0, 0, 2, 0.1); text-shadow: 0px 1px 0px rgb(253, 253, 255); position: relative; padding: 13px; }
+.mod-box.mod-2 { border: 1px solid rgba(0, 0, 2, 0.8); background: url('imgmod2.png') repeat-x scroll 0% 0% rgb(54, 54, 56); box-shadow: 0px 1px 0px rgba(253, 253, 255, 0.2) inset, 0px 1px 1px rgba(0, 0, 2, 0.2); color: rgb(191, 191, 193); text-shadow: 0px 1px 0px rgba(0, 0, 2, 0.3); }
+.mod-box.mod-2 blockquote { border-left: medium none; min-height: 75px; padding-top: 5px; margin: 4px; }
+.mod-box.mod-2 blockquote p { font-style: italic; }
+.mod-box.mod-2 img { float: left; margin-right: 10px; }
+.question-title { color: rgb(87, 156, 33); line-height: normal; margin: 0px 0px 20px; font-weight: bold; }
+.quizLabel { font-size: 23px; line-height: normal; font-weight: 700; margin-top: -8px; cursor: pointer; }
+.envoke-tooltip { text-decoration: underline; font-style: italic; }
+#content-wrapper { padding-bottom: 20px; padding-top: 30px; }
+.navbar-inner { background-color: rgb(59, 89, 152); background-image: none; }
+.reservation-timer, .places-available { font-size: 14px; height: 20px; font-weight: 700; padding-top: 10px; color: rgb(255, 255, 255); }
+.places-available { float: right; }
+.places-available img.places-flag { position: relative; top: -1px; padding-right: 2px; }
+.navbar .label { top: -3px; font-size: 15px; }
+.container.content .row.heading { padding-bottom: 30px; }
+.container.content .row.sell { padding-bottom: 0px; }
+.sell ul { max-width: 380px; font-size: 14px; margin: 0px auto; }
+.sell ul li { list-style-type: none; background: url('imgtick.png') no-repeat scroll 0% 0% transparent; margin: 0px 0px 10px; padding: 0px 0px 0px 34px; }
+form.quiz { padding-left: 20px; margin: 30px 0px; }
+form.quiz .quizInput { margin: 10px 0px 20px 40px; }
+form.quiz .quizInput label.radio { font-size: 22px; display: block; margin: 15px 0px; }
+.cta { display: block; width: 192px; height: 48px; background: none repeat scroll 0% 0% rgb(59, 89, 152); border: medium none; color: rgb(255, 255, 255); font-weight: 600; font-size: 22px; margin: 0px; padding: 0px; }
+.cta span { top: -4px; position: relative; }
+a.cta span { display: block; text-align: center; top: 10px; }
+.cta:hover { background-position: 0px -48px; text-decoration: none; color: rgb(255, 255, 255); }
+img#hero-shot { display: block; width: 95%; margin: 0px auto 20px; }
+.further-info p { font-size: 11px; color: rgb(0, 0, 0); line-height: 110%; }
+.brands { text-align: center; margin: 30px 0px 25px; }
+.customers { margin-bottom: 25px; }
+#footer-wrapper { background: none repeat scroll 0% 0% rgb(247, 247, 249); border-top: 2px solid rgb(255, 255, 255); }
+footer { margin: 30px 0px; }
+footer p { color: rgb(0, 0, 0); font-size: 11px; padding-left: 15px; }
+.modal { background-color: rgb(59, 89, 152); }
+.modal-body { background-color: rgb(255, 255, 255); }
+.modal-header { color: rgb(255, 255, 255); }
+.accordion, .container.content { background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+.reservation-timer, #confirmation .item .col1 { float: left; }
+.container.content .row.sell #quiz-wrapper, .container.content .row.sell .further-info { margin: 0px 20px 10px; }
+.further-info h4, #confirmation .block-item .free { color: rgb(87, 156, 33); }
+.erroralert { background-color: rgb(218, 66, 53); border-radius: 0px 0px 7px 7px; margin: 0px -15px -15px; color: rgb(255, 255, 255); font-size: 17px; line-height: 36px; text-align: center; }
+ul.features li { background: url('check.png') no-repeat scroll left top transparent ! important; }
+.instructionContainer { line-height: 20px ! important; float: left; margin: 40px 0px 0px 420px ! important; }
+.instructionUpper { font-size: 29px; color: rgb(193, 6, 0); font-weight: bold; }
+.instructionLower { font-size: 18px; }
+#productLeft { margin-top: -95px; }

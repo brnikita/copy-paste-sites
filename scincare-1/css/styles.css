@@ -1,0 +1,147 @@
+body{background:#fff;font-size:11px;font-family:"lucida grande",tahoma,verdana,arial,sans-serif;color:#333;line-height:1.28;margin:0;padding:0;text-align:left;direction:ltr;unicode-bidi:embed}
+form{margin:0;padding:0}
+label{cursor:pointer;color:#666;font-weight:bold;vertical-align:middle}
+textarea{border:1px solid #bdc7d8;font-family:"lucida grande",tahoma,verdana,arial,sans-serif;font-size:11px;margin:0;padding:3px;-webkit-appearance:none;-webkit-border-radius:0}
+select{border:1px solid #bdc7d8;font-family:"lucida grande",tahoma,verdana,arial,sans-serif;font-size:11px;padding:2px}
+h1, h2, h3, h4, h5, h6{font-size:13px;color:#333;margin:0;padding:0}
+h1{font-size:14px}
+h4, h5{font-size:11px}
+p{margin:1em 0}
+a{cursor:pointer;color:#3b5998;text-decoration:none}
+a:hover{text-decoration:underline}
+img{border:0}
+td{font-size:11px;text-align:left}
+dd{color:#000}
+dt{color:#777}
+ul{list-style-type:none;margin:0;padding:0}
+abbr{border-bottom:none}
+hr{background:#d9d9d9;border-width:0;color:#d9d9d9;height:1px}
+wbr:after{content:"\00200B"}
+
+
+.wrapper { max-width: 859px; margin: 0 auto; padding: 5px; height: auto;}
+.clear { clear: both; height: 1px; overflow: hidden; }
+img{max-width: 100%;}
+.text_center{text-align: center;}
+.published_date{float: right; padding-top: 35px; text-align:right;}
+.fb_count_11{float:right; padding:7px 0 0; color:#333;line-height:26px;}
+.fb_like_btn_11{padding:7px 0 0 25px; float:right; color:#3b5998; min-width: 50px; text-align: left;}
+img { border: 0pt none; }
+
+#mainnav { font-size: 12px; line-height: 20px; text-transform: uppercase; border-style: solid; border-color: rgb(0, 0, 0); -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; border-width: 1px 0pt 3px; }
+#mainnav span { padding: 0 2.4% 0 0; }
+.Apple-style-span{color: #333333; font-family: Georgia, Arial, Helvetica; font-size: 20px; font-weight: bold; line-height: 24px;}
+.Apple-style-span span{text-decoration: underline; color: #000000;}
+#maincontent { padding: 5px; width: 98%;}
+#breadcrumbnav { font-size: 10px; }
+#breadcrumbnav a { color: rgb(0, 124, 168); }
+h1 { color: rgb(0, 0, 0); font-size: 26px; font-weight: bold; margin: 0pt; padding: 0pt; }
+#mainsubhead { font-size: 12px; color: rgb(137, 137, 137); border-bottom: 1px solid rgb(178, 178, 178); margin: 0pt 0pt 5px; }
+.fl { float: left; }
+#maintext { width: 64%; float: left; }
+#maintext a:link { font-weight:normal; color:#0066cc; }
+#maintext a:active { font-weight:normal; color:#0066cc; }
+#maintext a:visited { font-weight:normal; color:#0066cc; }
+#maintext a:hover { font-weight:normal; color:#cc0000; }
+#maintext .note{border-width: 1px; border-style: dotted; border-color: rgb(153, 153, 153); padding: 4px; background-color: rgb(255, 255, 223);}
+#maintext .note span{font-family: Arial; font-size: 9pt;}
+#maintext .note span span{color: #d40000;}
+#rightcontent { width: 30%; background: none repeat scroll 0% 0% rgb(239, 236, 202); float: left; margin: 0pt 5px 0pt 10px; }
+#rightcontent a:link { font-weight:normal; color:#0066cc; }
+#rightcontent a:active { font-weight:normal; color:#0066cc; }
+#rightcontent a:visited { font-weight:normal; color:#0066cc; }
+#rightcontent a:hover { font-weight:normal; color:#cc0000; }
+.righttxt { padding: 10px; font-size: 12px; font-family: Georgia,"Times New Roman",Times,serif; }
+.mainnewsimg { width: 155px; float: left; font-size: 12px; color: rgb(108, 108, 108); font-style: italic; margin: 0pt 5px 0pt 0pt; background-color:#f5f5f5; padding-bottom:5px;}
+form { display: inline; }
+.whitespacer { background: none repeat scroll 0% 0% rgb(255, 255, 255); height: 15px; }
+.watotherssay { margin: 0pt 0pt 5px; }
+.watotherssay .user { padding: 30px 0pt 0pt; text-align: center; font-style: italic; }
+.headlinered { color: rgb(202, 0, 0); font-size: 24px; font-weight: bold; }
+blockquote {clear:both;border: 1px solid #999999;background-color: #CCCCCC;margin:0 15px 10px 15px;padding:10px 15px;}
+
+.fb_right {height:auto; overflow:visible; float:right; font-family:Arial, Helvetica, sans-serif; font-size:11px; margin:11px 0 0 0;}
+.fb_right:hover { text-decoration:none;}
+#ll{
+    width:25px; height:26px;
+    line-height:26px;
+    float:left;
+    background-image:url('../images/fblikel.png'); background-repeat:no-repeat;}
+#lm{
+    height:26px;
+    line-height:26px;
+    float:left;
+    background-image:url('../images/fblikem.png'); 
+    background-repeat:repeat-x;}
+#lr{
+    width:28px; height:26px;
+    line-height:26px;
+    float:left;
+    background:url('../images/fbliker.png') no-repeat left}
+
+ul.model-face, ul.model-face2 {
+    list-style: none;
+    width: 37%;
+    font-weight: bold;
+    font-size: 11px;
+    padding-top: 10px;
+    position: relative;
+}
+ul.model-face li{
+    text-align:right;
+}
+ul.model-face {
+    background: url('../images/model-face.jpg') no-repeat top right;
+    height: 221px;
+    padding-right: 63%;
+}
+ul.model-face2 {
+    background: url('../images/model-face2.jpg') no-repeat top left;
+    text-align: left;
+    height: 238px;
+    padding-left: 64%;
+}
+ul.model-face li, ul.model-face2 li {
+    position: absolute;
+    top: 0;
+    width: 200px;
+}
+ul.model-face li.i1 { top: 17px; }
+ul.model-face li.i2 { top: 47px; }
+ul.model-face li.i3 { top: 77px; }
+ul.model-face li.i4 { top: 108px; }
+ul.model-face li.i5 { top: 140px; }
+ul.model-face li.i6 { top: 170px; }
+ul.model-face li.i7 { top: 193px; }
+
+ul.model-face2 li.i1 { top: 8px; }
+ul.model-face2 li.i2 { top: 38px; }
+ul.model-face2 li.i3 { top: 70px; }
+ul.model-face2 li.i4 { top: 103px; }
+ul.model-face2 li.i5 { top: 138px; }
+ul.model-face2 li.i6 { top: 170px; }
+ul.model-face2 li.i7 { top: 194px; }
+.what_nurses_say{width:180px; background:#eeeeee; border:3px solid #bbb; padding:0px 5px; float:right; margin-right:5x; margin-left: 10px;}
+.belcherwt{border:#000 dashed 3px; padding:4px; font-size:14px;}
+.yellow_under_text{background-color: #ffff00;color:#000000;}
+.last_chance{color: #993300; font-family: Arial Black;}
+.video{margin-bottom:20px}
+.video__{background: url("../images/video.jpg") repeat scroll 0 0 transparent;cursor: pointer;height: 244px;position: relative;width: 100%;}
+.video__:hover {background-position:0px 240px;}
+.video__header{margin:20px 0 10px 0}
+.video__film-wrapper{margin:0 auto;width:79.3%}
+.video__caption{color:#5c5c5c;font-size:10px;font-style:italic}
+.video__caption span{text-decoration:underline}
+.video__ > iframe{
+    width: 99.9%;
+    height: 99.9%;
+    
+}
+
+.cf:before,.cf:after{content:"";display:table}
+.cf:after{clear:both}.cf{zoom:1}
+.watotherssay .user img{width:100%}
+h1{font-size:21px}
+.f16{font-size:16px}
+.maria__photo{float:left;width:100px;margin:0 10px 10px 0}
+.maria .more{margin-top:10px;text-align:right}

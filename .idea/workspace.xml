@@ -1,0 +1,1541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4833ea98-29eb-45c1-ba6b-a47ef3fc5fdd" name="Default" comment="" />
+    <ignored path="copy-paste.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="copy-paste" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/diet-1/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="19.083334" vertical-offset="7825" max-vertical-offset="14399">
+              <caret line="366" column="66" selection-start-line="366" selection-start-column="66" selection-end-line="366" selection-end-column="66" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#strong#0;n#p#10;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#strong#1;n#p#10;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#li#0;n#ol#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#a#0;n#span#0;n#li#0;n#ol#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#li#1;n#ol#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#a#0;n#span#0;n#li#1;n#ol#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#12;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#10;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#10;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#11;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#11;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1436965556056" expanded="false" signature="45983:46003" placeholder="..." />
+                <marker date="1436965556056" expanded="true" signature="46004:46089" placeholder="..." />
+                <marker date="1436965556056" expanded="false" signature="46035:46066" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/diet-2/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.8" vertical-offset="13821" max-vertical-offset="22032">
+              <caret line="835" column="71" selection-start-line="835" selection-start-column="71" selection-end-line="835" selection-end-column="71" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#center#0;n#center#1;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#2;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#8;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#p#8;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#9;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#9;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#div#5;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#p#0;n#div#5;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#5;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#5;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#6;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#6;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#b#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#b#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#b#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#b#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#b#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#b#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1436968743670" expanded="true" signature="60:747" placeholder="..." />
+                <marker date="1436968743670" expanded="true" signature="67:747" placeholder="..." />
+                <marker date="1436968743670" expanded="true" signature="465:709" placeholder="..." />
+                <marker date="1436968743670" expanded="true" signature="723:747" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/diet-3/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.9454546" vertical-offset="13146" max-vertical-offset="17119">
+              <caret line="767" column="49" selection-start-line="767" selection-start-column="49" selection-end-line="767" selection-end-column="49" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#header#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#figure#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#figure#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#figure#2;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#figure#3;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#figure#4;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#figure#4;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#figcaption#0;n#figure#4;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#section#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#figure#0;n#li#0;n#ul#0;n#section#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#figure#0;n#li#0;n#ul#0;n#section#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#figure#0;n#li#1;n#ul#0;n#section#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#figure#0;n#li#1;n#ul#0;n#section#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#figure#0;n#li#1;n#ul#0;n#section#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#figure#0;n#li#1;n#ul#0;n#section#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#span#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#span#0;n#div#3;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#2;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#figcaption#0;n#figure#0;n#section#2;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#b#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#section#3;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#section#3;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#6;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#figure#5;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#figure#5;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#figcaption#0;n#figure#5;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#figure#0;n#div#0;n#div#3;n#section#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#1;n#div#3;n#section#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#figure#0;n#div#3;n#section#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#figure#0;n#div#0;n#div#5;n#section#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#1;n#div#5;n#section#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#figure#0;n#div#5;n#section#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#6;n#section#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#7;n#section#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#figure#0;n#li#0;n#ul#0;n#section#0;n#section#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#h2#0;n#li#0;n#ul#0;n#section#0;n#section#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#figure#0;n#li#1;n#ul#0;n#section#0;n#section#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#h2#0;n#li#1;n#ul#0;n#section#0;n#section#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#figure#0;n#li#2;n#ul#0;n#section#0;n#section#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#h2#0;n#li#2;n#ul#0;n#section#0;n#section#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#3;n#ul#0;n#section#0;n#section#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#figure#0;n#li#3;n#ul#0;n#section#0;n#section#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#h2#0;n#li#3;n#ul#0;n#section#0;n#section#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#section#0;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#2;n#section#0;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#3;n#section#0;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#4;n#section#0;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#5;n#section#0;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#section#1;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#figure#0;n#li#0;n#ul#0;n#section#1;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#figure#0;n#li#0;n#ul#0;n#section#1;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#figure#0;n#li#1;n#ul#0;n#section#1;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#figure#0;n#li#1;n#ul#0;n#section#1;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#span#0;n#div#0;n#section#2;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#span#0;n#span#0;n#div#0;n#section#2;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#section#2;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#section#2;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#figure#0;n#li#0;n#ul#0;n#section#3;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#h2#0;n#li#0;n#ul#0;n#section#3;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#li#0;n#ul#0;n#section#3;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#figure#0;n#li#1;n#ul#0;n#section#3;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#h2#0;n#li#1;n#ul#0;n#section#3;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#li#1;n#ul#0;n#section#3;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#figure#0;n#li#2;n#ul#0;n#section#3;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#h2#0;n#li#2;n#ul#0;n#section#3;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#li#2;n#ul#0;n#section#3;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#figure#0;n#li#0;n#ul#0;n#section#4;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#h2#0;n#li#0;n#ul#0;n#section#4;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#figure#0;n#li#1;n#ul#0;n#section#4;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#h2#0;n#li#1;n#ul#0;n#section#4;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#figure#0;n#li#2;n#ul#0;n#section#4;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#h2#0;n#li#2;n#ul#0;n#section#4;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#figure#0;n#li#3;n#ul#0;n#section#4;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#h2#0;n#li#3;n#ul#0;n#section#4;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/diet-4/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.20238096" vertical-offset="0" max-vertical-offset="12427">
+              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#p#9;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#center#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#5;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#8;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#center#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#center#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#2;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#center#2;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#3;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#center#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1436974745201" expanded="true" signature="55:6243" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="62:2676" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="445:561" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="1595:1795" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="2115:2668" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="2144:2535" placeholder="{...}" />
+                <marker date="1436974745201" expanded="true" signature="2564:2654" placeholder="{...}" />
+                <marker date="1436974745201" expanded="true" signature="2683:6243" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="2738:3854" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="2766:3846" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="2803:3121" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="2857:2873" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="2874:2956" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="2880:2951" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="2908:2942" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="3010:3026" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="3027:3106" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="3033:3102" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="3061:3079" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="3203:3834" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="3243:3819" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="3264:3382" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="3341:3377" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="3403:3525" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="3480:3520" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="3546:3664" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="3623:3659" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="3685:3801" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="3762:3796" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="3888:6243" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="3910:6243" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="3942:6243" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="3973:6243" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="4004:4177" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="4015:4026" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="4206:4225" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="4226:4328" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="4353:4697" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="4414:4688" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="4510:4684" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="4566:4612" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="4717:5669" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="4720:5138" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="5690:5815" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="5888:6210" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="6303:6780" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="6801:7207" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="10071:10830" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="10121:10192" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="10153:10191" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="10943:11080" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="11024:11053" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="11100:11803" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="11429:11510" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="11910:12614" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="11995:12320" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="12635:13030" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="12660:12791" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="13050:13439" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="13460:13910" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="13522:13781" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="13949:14337" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="14367:14435" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="14436:16164" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="14465:14688" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="14501:14575" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="14576:14658" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="14712:15183" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="14773:14960" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="14870:14956" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="14925:14955" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="14986:15179" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="15311:15447" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="15325:15336" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="15337:15443" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="15340:15436" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="15480:15516" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="15517:15697" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="15531:15562" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="15563:15693" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="15582:15653" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="15753:15770" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="15771:15932" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="15990:16164" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="17494:17511" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="17512:18169" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="17584:17600" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="17620:18163" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="18230:18754" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="18432:18731" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="18504:18520" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="18540:18725" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="18792:19604" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="18994:19581" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="19066:19080" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="19100:19575" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="19181:19392" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="19339:19366" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="19642:20053" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="19844:20030" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="19916:19934" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="19954:20024" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="20091:20478" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="20293:20455" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="20365:20381" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="20401:20449" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="20516:20880" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="20717:20857" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="20789:20807" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="20827:20851" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="20918:21392" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="21119:21369" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="21191:21209" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="21229:21363" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="21430:21906" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="21631:21883" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="21703:21718" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="21738:21877" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="21944:22376" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="22145:22353" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="22217:22237" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="22257:22347" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="22414:22794" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="22615:22771" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="22687:22703" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="22723:22765" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="22832:23352" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="23033:23329" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="23105:23121" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="23141:23323" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="23390:23873" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="23591:23850" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="23663:23681" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="23701:23844" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="23911:24274" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="24112:24251" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="24184:24197" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="24217:24245" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="24312:24696" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="24513:24673" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="24585:24601" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="24621:24667" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="24734:25261" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="24935:25238" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="25007:25026" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="25046:25232" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="25299:25826" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="25500:25803" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="25572:25589" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="25609:25797" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="25864:26295" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="26065:26272" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="26137:26153" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="26173:26266" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="26333:26731" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="26534:26708" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="26606:26620" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="26640:26702" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="26769:27238" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="26970:27215" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="27042:27058" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="27078:27209" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="27276:27713" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="27477:27690" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="27549:27563" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="27583:27684" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="27734:27768" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="27834:29116" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="27858:28189" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="28017:28164" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="28053:28131" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="28213:28560" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="28369:28535" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="28405:28502" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="28584:28721" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="28746:29092" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="28860:28905" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="29022:29067" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="29180:29221" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="29222:30925" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="29251:29474" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="29287:29361" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="29362:29444" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="29498:29969" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="29559:29746" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="29656:29742" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="29711:29741" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="29772:29965" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="30072:30208" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="30086:30097" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="30098:30204" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="30101:30197" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="30241:30277" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="30278:30458" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="30292:30323" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="30324:30454" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="30343:30414" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="30514:30531" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="30532:30693" placeholder="..." />
+                <marker date="1436974745201" expanded="true" signature="30751:30925" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/diet-5/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.4285715" vertical-offset="6460" max-vertical-offset="13753">
+              <caret line="392" column="23" selection-start-line="392" selection-start-column="23" selection-end-line="392" selection-end-column="23" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#center#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#strong#0;n#p#19;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#3;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#p#1;n#div#3;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#strong#0;n#center#0;n#div#3;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#strong#0;n#center#2;n#div#3;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#0;n#i#0;n#center#0;n#div#4;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#4;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#div#4;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#3;n#div#0;n#div#4;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#a#0;n#strong#0;n#span#3;n#div#0;n#div#4;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#1;n#div#4;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#5;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#6;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#7;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#7;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#0;n#p#0;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="video.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scincare-1/video.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
+              <caret line="0" column="103" selection-start-line="0" selection-start-column="103" selection-end-line="0" selection-end-column="103" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scincare-3/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.33291772" vertical-offset="8930" max-vertical-offset="29291">
+              <caret line="541" column="111" selection-start-line="541" selection-start-column="111" selection-end-line="541" selection-end-column="111" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#span#0;n#center#1;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#span#0;n#p#18;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#6;n#div#0;n#div#3;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#7;n#div#0;n#div#3;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#11;n#div#0;n#div#3;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#12;n#div#0;n#div#3;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#16;n#div#0;n#div#3;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#span#0;n#div#4;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#42;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#center#1;n#div#2;n#div#0;n#div#3;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#3;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#div#3;n#div#0;n#div#3;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#5;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#5;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#5;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#7;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#font#0;n#center#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#2;n#font#0;n#center#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#3;n#font#0;n#center#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#4;n#font#0;n#center#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scincare-1/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.653846" vertical-offset="19943" max-vertical-offset="20774">
+              <caret line="1194" column="12" selection-start-line="1194" selection-start-column="12" selection-end-line="1194" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="offer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/offer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="323">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/diet-1/css/styles.min.css" />
+        <option value="$PROJECT_DIR$/diet-2/css/style.css" />
+        <option value="$PROJECT_DIR$/diet-2/css/fonts.css" />
+        <option value="$PROJECT_DIR$/diet-3/css/font.css" />
+        <option value="$PROJECT_DIR$/diet-4/css/blog-post.css" />
+        <option value="$PROJECT_DIR$/diet-5/css/flexslider.css" />
+        <option value="$PROJECT_DIR$/diet-5/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/scincare-1/index.php" />
+        <option value="$PROJECT_DIR$/scincare-2/index.php" />
+        <option value="$PROJECT_DIR$/scincare-4/index.php" />
+        <option value="$PROJECT_DIR$/scincare-4/css/app.css" />
+        <option value="$PROJECT_DIR$/scincare-4/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/scincare-5/css/app.css" />
+        <option value="$PROJECT_DIR$/scincare-5/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/scincare-5/index.php" />
+        <option value="$PROJECT_DIR$/diet-1/index.php" />
+        <option value="$PROJECT_DIR$/offer.php" />
+        <option value="$PROJECT_DIR$/diet-2/index.php" />
+        <option value="$PROJECT_DIR$/diet-3/index.php" />
+        <option value="$PROJECT_DIR$/diet-4/index.php" />
+        <option value="$PROJECT_DIR$/diet-5/index.php" />
+        <option value="$PROJECT_DIR$/scincare-1/video.html" />
+        <option value="$PROJECT_DIR$/scincare-3/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="copy-paste" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="copy-paste" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="copy-paste" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="copy-paste" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="copy-paste" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scincare-3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="copy-paste" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="copy-paste" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scincare-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="copy-paste" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="copy-paste" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scincare-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
+    <property name="options.lastSelected" value="reference.settings.deploy.options" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\copy-paste\scincare-5\fonts" />
+      <recent name="C:\projects\copy-paste\scincare-5\css" />
+      <recent name="C:\projects\copy-paste\scincare-5\js" />
+      <recent name="C:\projects\copy-paste\scincare-5\img" />
+      <recent name="C:\projects\copy-paste\scincare-4\fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projects\copy-paste\scincare-1\js" />
+      <recent name="C:\projects\copy-paste\scincare-1\css" />
+      <recent name="C:\projects\copy-paste\scincare-1\img" />
+      <recent name="C:\projects\copy-paste\diet-5\js" />
+      <recent name="C:\projects\copy-paste\diet-5\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4833ea98-29eb-45c1-ba6b-a47ef3fc5fdd" name="Default" comment="" />
+      <created>1436806908549</created>
+      <option name="number" value="Default" />
+      <updated>1436806908549</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47438753" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14605543" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/offer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5287">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diet-1/css/styles.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
+          <caret line="5" column="1225" selection-start-line="5" selection-start-column="1225" selection-end-line="5" selection-end-column="1225" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diet-2/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="100824" max-vertical-offset="101762">
+          <caret line="5980" column="0" selection-start-line="5980" selection-start-column="0" selection-end-line="5980" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diet-2/css/fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5814">
+          <caret line="336" column="0" selection-start-line="336" selection-start-column="0" selection-end-line="336" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diet-3/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="50337">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diet-4/css/styles-resp.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="857">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diet-4/css/blog-post.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+          <caret line="0" column="45" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diet-4/js/jquery.sticky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="857">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diet-5/js/jquery.sticky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="857">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diet-5/css/flexslider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4964">
+          <caret line="272" column="9" selection-start-line="272" selection-start-column="9" selection-end-line="272" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diet-5/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scincare-1/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2448">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1436896101617" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436896101617" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436896101617" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scincare-1/css/fb_comments.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scincare-2/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2822">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scincare-2/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.8690476" vertical-offset="848" max-vertical-offset="12716">
+          <caret line="69" column="83" selection-start-line="69" selection-start-column="83" selection-end-line="69" selection-end-column="83" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#3;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#4;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#5;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#6;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#6;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h1#1;n#div#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scincare-2/img/index_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="221">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scincare-3/css/boilerplate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5253">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scincare-5/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17965654" vertical-offset="2023" max-vertical-offset="9588">
+          <caret line="127" column="10" selection-start-line="127" selection-start-column="10" selection-end-line="127" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h2#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#p#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#p#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#span#0;n#p#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#p#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#1;n#p#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#span#1;n#p#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#p#3;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#4;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#6;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#22;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#23;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#24;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#strong#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#1;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scincare-4/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49109414" vertical-offset="9695" max-vertical-offset="15028">
+          <caret line="593" column="84" selection-start-line="593" selection-start-column="84" selection-end-line="593" selection-end-column="84" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scincare-5/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="857">
+          <caret line="0" column="3936" selection-start-line="0" selection-start-column="3936" selection-end-line="0" selection-end-column="3936" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scincare-5/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+          <caret line="0" column="80177" selection-start-line="0" selection-start-column="80177" selection-end-line="0" selection-end-column="80177" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scincare-5/js/jquery_002.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="857">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scincare-5/css/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="857">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scincare-4/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9940547" vertical-offset="88006" max-vertical-offset="88944">
+          <caret line="5226" column="0" selection-start-line="5226" selection-start-column="0" selection-end-line="5226" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scincare-4/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9789227" vertical-offset="4519" max-vertical-offset="5457">
+          <caret line="315" column="0" selection-start-line="315" selection-start-column="0" selection-end-line="315" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scincare-4/js/angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90304">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scincare-4/css/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diet-1/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="19.083334" vertical-offset="7825" max-vertical-offset="14399">
+          <caret line="366" column="66" selection-start-line="366" selection-start-column="66" selection-end-line="366" selection-end-column="66" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#strong#0;n#p#10;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#strong#1;n#p#10;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#0;n#ol#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#span#0;n#li#0;n#ol#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#1;n#ol#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#span#0;n#li#1;n#ol#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#12;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#10;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#10;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#11;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#11;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1436965556056" expanded="false" signature="45983:46003" placeholder="..." />
+            <marker date="1436965556056" expanded="true" signature="46004:46089" placeholder="..." />
+            <marker date="1436965556056" expanded="false" signature="46035:46066" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diet-2/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.8" vertical-offset="13821" max-vertical-offset="22032">
+          <caret line="835" column="71" selection-start-line="835" selection-start-column="71" selection-end-line="835" selection-end-column="71" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#center#0;n#center#1;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#2;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#8;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#p#8;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#9;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#9;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#5;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#p#0;n#div#5;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#5;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#5;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#6;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#6;n#b#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#b#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#b#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#b#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#b#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#b#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#b#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1436968743670" expanded="true" signature="60:747" placeholder="..." />
+            <marker date="1436968743670" expanded="true" signature="67:747" placeholder="..." />
+            <marker date="1436968743670" expanded="true" signature="465:709" placeholder="..." />
+            <marker date="1436968743670" expanded="true" signature="723:747" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="323">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diet-3/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9454546" vertical-offset="13146" max-vertical-offset="17119">
+          <caret line="767" column="49" selection-start-line="767" selection-start-column="49" selection-end-line="767" selection-end-column="49" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#header#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#figure#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#figure#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#figure#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#figure#2;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#figure#3;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#figure#4;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#figure#4;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#figcaption#0;n#figure#4;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#section#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#figure#0;n#li#0;n#ul#0;n#section#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#figure#0;n#li#0;n#ul#0;n#section#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#figure#0;n#li#1;n#ul#0;n#section#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#figure#0;n#li#1;n#ul#0;n#section#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#figure#0;n#li#1;n#ul#0;n#section#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#figure#0;n#li#1;n#ul#0;n#section#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#div#3;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#2;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#figcaption#0;n#figure#0;n#section#2;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#b#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#section#3;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#3;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#figure#5;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#figure#5;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#figcaption#0;n#figure#5;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#figure#0;n#div#0;n#div#3;n#section#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#3;n#section#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#figure#0;n#div#3;n#section#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#figure#0;n#div#0;n#div#5;n#section#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#5;n#section#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#figure#0;n#div#5;n#section#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#section#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#section#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#figure#0;n#li#0;n#ul#0;n#section#0;n#section#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#h2#0;n#li#0;n#ul#0;n#section#0;n#section#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#figure#0;n#li#1;n#ul#0;n#section#0;n#section#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#h2#0;n#li#1;n#ul#0;n#section#0;n#section#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#figure#0;n#li#2;n#ul#0;n#section#0;n#section#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#h2#0;n#li#2;n#ul#0;n#section#0;n#section#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#0;n#section#0;n#section#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#figure#0;n#li#3;n#ul#0;n#section#0;n#section#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#h2#0;n#li#3;n#ul#0;n#section#0;n#section#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#section#0;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#section#0;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#3;n#section#0;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#4;n#section#0;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#5;n#section#0;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#section#1;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#figure#0;n#li#0;n#ul#0;n#section#1;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#figure#0;n#li#0;n#ul#0;n#section#1;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#figure#0;n#li#1;n#ul#0;n#section#1;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#figure#0;n#li#1;n#ul#0;n#section#1;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#div#0;n#section#2;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#span#0;n#span#0;n#div#0;n#section#2;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#section#2;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#section#2;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#figure#0;n#li#0;n#ul#0;n#section#3;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#h2#0;n#li#0;n#ul#0;n#section#3;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#li#0;n#ul#0;n#section#3;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#figure#0;n#li#1;n#ul#0;n#section#3;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#h2#0;n#li#1;n#ul#0;n#section#3;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#li#1;n#ul#0;n#section#3;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#figure#0;n#li#2;n#ul#0;n#section#3;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#h2#0;n#li#2;n#ul#0;n#section#3;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#li#2;n#ul#0;n#section#3;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#figure#0;n#li#0;n#ul#0;n#section#4;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#h2#0;n#li#0;n#ul#0;n#section#4;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#figure#0;n#li#1;n#ul#0;n#section#4;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#h2#0;n#li#1;n#ul#0;n#section#4;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#figure#0;n#li#2;n#ul#0;n#section#4;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#h2#0;n#li#2;n#ul#0;n#section#4;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#figure#0;n#li#3;n#ul#0;n#section#4;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#h2#0;n#li#3;n#ul#0;n#section#4;n#aside#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diet-4/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.20238096" vertical-offset="0" max-vertical-offset="12427">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#p#9;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#center#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#5;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#8;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#center#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#center#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#center#2;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#3;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#center#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1436974745201" expanded="true" signature="55:6243" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="62:2676" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="445:561" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="1595:1795" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="2115:2668" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="2144:2535" placeholder="{...}" />
+            <marker date="1436974745201" expanded="true" signature="2564:2654" placeholder="{...}" />
+            <marker date="1436974745201" expanded="true" signature="2683:6243" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="2738:3854" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="2766:3846" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="2803:3121" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="2857:2873" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="2874:2956" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="2880:2951" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="2908:2942" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="3010:3026" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="3027:3106" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="3033:3102" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="3061:3079" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="3203:3834" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="3243:3819" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="3264:3382" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="3341:3377" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="3403:3525" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="3480:3520" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="3546:3664" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="3623:3659" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="3685:3801" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="3762:3796" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="3888:6243" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="3910:6243" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="3942:6243" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="3973:6243" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="4004:4177" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="4015:4026" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="4206:4225" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="4226:4328" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="4353:4697" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="4414:4688" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="4510:4684" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="4566:4612" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="4717:5669" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="4720:5138" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="5690:5815" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="5888:6210" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="6303:6780" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="6801:7207" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="10071:10830" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="10121:10192" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="10153:10191" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="10943:11080" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="11024:11053" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="11100:11803" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="11429:11510" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="11910:12614" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="11995:12320" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="12635:13030" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="12660:12791" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="13050:13439" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="13460:13910" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="13522:13781" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="13949:14337" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="14367:14435" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="14436:16164" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="14465:14688" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="14501:14575" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="14576:14658" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="14712:15183" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="14773:14960" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="14870:14956" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="14925:14955" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="14986:15179" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="15311:15447" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="15325:15336" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="15337:15443" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="15340:15436" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="15480:15516" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="15517:15697" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="15531:15562" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="15563:15693" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="15582:15653" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="15753:15770" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="15771:15932" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="15990:16164" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="17494:17511" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="17512:18169" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="17584:17600" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="17620:18163" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="18230:18754" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="18432:18731" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="18504:18520" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="18540:18725" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="18792:19604" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="18994:19581" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="19066:19080" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="19100:19575" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="19181:19392" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="19339:19366" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="19642:20053" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="19844:20030" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="19916:19934" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="19954:20024" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="20091:20478" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="20293:20455" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="20365:20381" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="20401:20449" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="20516:20880" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="20717:20857" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="20789:20807" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="20827:20851" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="20918:21392" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="21119:21369" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="21191:21209" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="21229:21363" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="21430:21906" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="21631:21883" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="21703:21718" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="21738:21877" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="21944:22376" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="22145:22353" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="22217:22237" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="22257:22347" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="22414:22794" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="22615:22771" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="22687:22703" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="22723:22765" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="22832:23352" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="23033:23329" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="23105:23121" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="23141:23323" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="23390:23873" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="23591:23850" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="23663:23681" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="23701:23844" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="23911:24274" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="24112:24251" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="24184:24197" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="24217:24245" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="24312:24696" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="24513:24673" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="24585:24601" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="24621:24667" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="24734:25261" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="24935:25238" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="25007:25026" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="25046:25232" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="25299:25826" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="25500:25803" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="25572:25589" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="25609:25797" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="25864:26295" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="26065:26272" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="26137:26153" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="26173:26266" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="26333:26731" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="26534:26708" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="26606:26620" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="26640:26702" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="26769:27238" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="26970:27215" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="27042:27058" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="27078:27209" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="27276:27713" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="27477:27690" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="27549:27563" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="27583:27684" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="27734:27768" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="27834:29116" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="27858:28189" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="28017:28164" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="28053:28131" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="28213:28560" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="28369:28535" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="28405:28502" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="28584:28721" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="28746:29092" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="28860:28905" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="29022:29067" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="29180:29221" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="29222:30925" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="29251:29474" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="29287:29361" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="29362:29444" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="29498:29969" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="29559:29746" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="29656:29742" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="29711:29741" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="29772:29965" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="30072:30208" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="30086:30097" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="30098:30204" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="30101:30197" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="30241:30277" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="30278:30458" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="30292:30323" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="30324:30454" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="30343:30414" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="30514:30531" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="30532:30693" placeholder="..." />
+            <marker date="1436974745201" expanded="true" signature="30751:30925" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diet-5/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.4285715" vertical-offset="6460" max-vertical-offset="13753">
+          <caret line="392" column="23" selection-start-line="392" selection-start-column="23" selection-end-line="392" selection-end-column="23" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#center#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#strong#0;n#p#19;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#3;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#p#1;n#div#3;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#strong#0;n#center#0;n#div#3;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#strong#0;n#center#2;n#div#3;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#0;n#i#0;n#center#0;n#div#4;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#4;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#div#4;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#3;n#div#0;n#div#4;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#strong#0;n#span#3;n#div#0;n#div#4;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#4;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#5;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#6;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#7;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#7;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#0;n#p#0;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scincare-1/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.653846" vertical-offset="19943" max-vertical-offset="20774">
+          <caret line="1194" column="12" selection-start-line="1194" selection-start-column="12" selection-end-line="1194" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scincare-1/video.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="802">
+          <caret line="0" column="103" selection-start-line="0" selection-start-column="103" selection-end-line="0" selection-end-column="103" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scincare-3/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33291772" vertical-offset="8930" max-vertical-offset="29291">
+          <caret line="541" column="111" selection-start-line="541" selection-start-column="111" selection-end-line="541" selection-end-column="111" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#span#0;n#center#1;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#span#0;n#p#18;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#6;n#div#0;n#div#3;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#7;n#div#0;n#div#3;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#11;n#div#0;n#div#3;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#12;n#div#0;n#div#3;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#16;n#div#0;n#div#3;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#span#0;n#div#4;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#42;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#center#1;n#div#2;n#div#0;n#div#3;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#3;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#3;n#div#0;n#div#3;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#5;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#5;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#5;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#7;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#font#0;n#center#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#font#0;n#center#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#3;n#font#0;n#center#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#4;n#font#0;n#center#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
