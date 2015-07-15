@@ -1,5 +1,5 @@
 <?php
-require_once ('../../offer.php');
+require_once ('../offer.php');
 ?>
 <!DOCTYPE html>
 <html lang="en"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}</style>
@@ -24,12 +24,12 @@ require_once ('../../offer.php');
         <div class="col-md-3 hidden-xs" style="color:#CCC;text-align:center;"></div>
         <div class="col-md-6 hidden-xs hidden-sm" id="banner">
             <div align="right">
-                <a href="absolutederma.php" target="_blank"><img src="img/banner-468-60.jpg" style="max-width:468px;" class="img-responsive hidden-xs"></a></div>
+                <a href="<?php echo $OFFER1; ?>" target="_blank"><img src="img/banner-468-60.jpg" style="max-width:468px;" class="img-responsive hidden-xs"></a></div>
             <div>
                 <div class="hidden-xs" align="right">
-                    <a href="absolutederma.php" target="_blank">REGISTER</a>
+                    <a href="<?php echo $OFFER1; ?>" target="_blank">REGISTER</a>
                     |
-                    <a href="absolutederma.php" target="_blank">LOGIN</a>
+                    <a href="<?php echo $OFFER1; ?>" target="_blank">LOGIN</a>
                 </div>
             </div>
         </div>
@@ -42,7 +42,7 @@ require_once ('../../offer.php');
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a target="_blank" class="navbar-brand ng-binding" href="absolutederma.php" style="font-size:12px;">
+                <a target="_blank" class="navbar-brand ng-binding" href="<?php echo $OFFER1; ?>" style="font-size:12px;">
                     Updated: <script language="Javascript">
                         <!--
 
@@ -68,25 +68,25 @@ require_once ('../../offer.php');
         <div class="collapse navbar-collapse" style="padding:0;margin:0;margin-top:10px;">
             <ul id="navi">
                 <li>
-                    <a href="absolutederma.php" target="_blank">Home</a>
+                    <a href="<?php echo $OFFER1; ?>" target="_blank">Home</a>
                 </li>
                 <li>
-                    <a href="absolutederma.php" target="_blank">Fitness</a>
+                    <a href="<?php echo $OFFER1; ?>" target="_blank">Fitness</a>
                 </li>
                 <li>
-                    <a href="absolutederma.php" target="_blank">Gossip</a>
+                    <a href="<?php echo $OFFER1; ?>" target="_blank">Gossip</a>
                 </li>
                 <li>
-                    <a href="absolutederma.php" target="_blank">Recipes</a>
+                    <a href="<?php echo $OFFER1; ?>" target="_blank">Recipes</a>
                 </li>
                 <li>
-                    <a href="absolutederma.php" target="_blank">Yoga</a>
+                    <a href="<?php echo $OFFER1; ?>" target="_blank">Yoga</a>
                 </li>
                 <li>
-                    <a href="absolutederma.php" target="_blank">Parenting</a>
+                    <a href="<?php echo $OFFER1; ?>" target="_blank">Parenting</a>
                 </li>
                 <li>
-                    <a href="absolutederma.php" target="_blank">Fashion</a>
+                    <a href="<?php echo $OFFER1; ?>" target="_blank">Fashion</a>
                 </li>
             </ul>
         </div>
@@ -97,7 +97,7 @@ require_once ('../../offer.php');
         <div class="hidden-xs">
             <div class="upper-row">
                 <div class="breadcrumbs">
-                    <a href="absolutederma.php" target="_blank">HOME</a> &gt; <a href="absolutederma.php" target="_blank">Anti-Aging</a></div>
+                    <a href="<?php echo $OFFER1; ?>" target="_blank">HOME</a> &gt; <a href="<?php echo $OFFER1; ?>" target="_blank">Anti-Aging</a></div>
                 <div class="fit-date ng-binding">
                     <script language="Javascript">
                         <!--
@@ -138,12 +138,12 @@ require_once ('../../offer.php');
                 <img style="max-width:100%" src="img/transformations_alt.jpg" height="" width="">
                 <img style="width:15px;height:15px;verticle-align:middle;" src="img/pageviews.jpg" alt="views" title="views" height="15" width="15">
 <span style="color:#ff0000;vertical-align:middle;">
-<a href="absolutederma.php" target="_blank" style="color:#ff0000;">2,391,558</a>
+<a href="<?php echo $OFFER1; ?>" target="_blank" style="color:#ff0000;">2,391,558</a>
 </span>
                 |
                 <img style="width:15px;height:15px;verticle-align:middle;" src="img/comments.jpg" alt="comments" title="comments" height="15" width="15">
 <span style="color:#124878;vertical-align:middle;">
-<a href="absolutederma.php" target="_blank" style="color:#124878;">656</a>
+<a href="<?php echo $OFFER1; ?>" target="_blank" style="color:#124878;">656</a>
 </span>
                 - At 70+, our 6 Grandmas are looking better than ever. They look even more radiant and youthful than they did when they were years younger! Many have tried to discover their secret: is it botox, face lifts, or just good lighting?
             </p>
@@ -176,13 +176,13 @@ require_once ('../../offer.php');
             </p>
             <h1>Lauren's Solution:</h1>
             <p>
-                After a year of doing thorough research and speaking to other women about their own skincare habits, she learned of a product that was yielding real results and helping women take years off their skin: <a href="absolutederma.php" target="_blank">Absolute Derma</a>.
+                After a year of doing thorough research and speaking to other women about their own skincare habits, she learned of a product that was yielding real results and helping women take years off their skin: <a href="<?php echo $OFFER1; ?>" target="_blank"><?php echo $NAME1; ?></a>.
             </p>
             <p>
-                After only a few days of adding <a href="absolutederma.php" target="_blank">Absolute Derma</a> to her daily skin routine, she saw noticeable results in the mirror. After just two weeks the proof was staring her right in the face: this was giving her real results.
+                After only a few days of adding <a href="<?php echo $OFFER1; ?>" target="_blank"><?php echo $NAME1; ?></a> to her daily skin routine, she saw noticeable results in the mirror. After just two weeks the proof was staring her right in the face: this was giving her real results.
             </p>
             <p>
-                Using <a href="absolutederma.php" target="_blank">Absolute Derma</a>, Lauren's results were noticeably better than what you'd find at medi-spas for $5,000 or more. This removed virtually 90% of all her wrinkles and problem areas. It tightened her face and neck, removing all signs of sagging, aging, and dehydrated skin. Lauren was able to see these dramatic anti-aging results simply by using a <strong>free sample of <a href="absolutederma.php" target="_blank">Absolute Derma</a> for only 14 days</strong>.
+                Using <a href="<?php echo $OFFER1; ?>" target="_blank"><?php echo $NAME1; ?></a>, Lauren's results were noticeably better than what you'd find at medi-spas for $5,000 or more. This removed virtually 90% of all her wrinkles and problem areas. It tightened her face and neck, removing all signs of sagging, aging, and dehydrated skin. Lauren was able to see these dramatic anti-aging results simply by using a <strong>free sample of <a href="<?php echo $OFFER1; ?>" target="_blank"><?php echo $NAME1; ?></a> for only 14 days</strong>.
             </p>
             <p>
                 Her friends, husband, and family were all shocked. They were convinced she'd been secretly getting Botox, because her skin looked 20 years younger almost overnight! Soon, word got around as her friends starting using Lauren's secret, and not long after, her easy discovery was featured on The Doctor Oz Show!
@@ -192,7 +192,7 @@ require_once ('../../offer.php');
             </p>
             <h1>How does it Work?</h1>
             <p>
-                Through her research, Lauren discovered that the real secret to <a href="absolutederma.php" target="_blank">Absolute Derma</a> are two key ingredients:
+                Through her research, Lauren discovered that the real secret to <a href="<?php echo $OFFER1; ?>" target="_blank"><?php echo $NAME1; ?></a> are two key ingredients:
             </p>
             <ul>
                 <li>
@@ -211,7 +211,7 @@ require_once ('../../offer.php');
                 <strong>Hyaluronic Acid</strong> works by binding to moisture. It can hold up to 1,000 times its weight in water, making it an excellent natural skin plumper. Hyaluronic Acid helps your skin repair and regenerate itself after suffering from dryness, environmental stresses, or irritation.
             </p>
             <p>
-                After seeing Lauren on the Dr Oz show a growing list of A-list celebrities appear to be ditching their expensive Botox treatments for Absolute Derma.
+                After seeing Lauren on the Dr Oz show a growing list of A-list celebrities appear to be ditching their expensive Botox treatments for <?php echo $NAME1; ?>.
             </p>
             <h1>People Everywhere Are Talking</h1>
             <img alt="" src="img/ba1.jpg" height="" width="70%" style="display: block; margin-left: auto; margin-right: auto;">
@@ -220,30 +220,30 @@ require_once ('../../offer.php');
             </p>
             <img alt="" src="img/ba2.jpg" height="" width="70%" style="display: block; margin-left: auto; margin-right: auto;">
             <p style="text-align: center;">
-                "I am 57 years old and I do NOT expect any lotion or Cream to make me look as I did in my 20's; however if I use Absolute Derma on a regular basis I absolutely can tell a difference in my skin tone and the overall appearance of my complexion. I checked it out and the reviews were great so I decided to give it a try. Absolute Derma is light, fragrance free, &amp; non-greasy. It has a fair amount of retinol, green tea, and Vitamin C plus it is packaged properly so that the beneficial ingredients are not exposed to the light, air, &amp; bacteria that destroys them. The free trial was great, it allowed me to try it before I bought it.." <strong>Zoe Clara from Miami, Florida</strong>
+                "I am 57 years old and I do NOT expect any lotion or Cream to make me look as I did in my 20's; however if I use <?php echo $NAME1; ?> on a regular basis I absolutely can tell a difference in my skin tone and the overall appearance of my complexion. I checked it out and the reviews were great so I decided to give it a try. <?php echo $NAME1; ?> is light, fragrance free, &amp; non-greasy. It has a fair amount of retinol, green tea, and Vitamin C plus it is packaged properly so that the beneficial ingredients are not exposed to the light, air, &amp; bacteria that destroys them. The free trial was great, it allowed me to try it before I bought it.." <strong>Zoe Clara from Miami, Florida</strong>
             </p>
             <img alt="" src="img/ba3.jpg" height="" width="70%" style="display: block; margin-left: auto; margin-right: auto;">
             <p style="text-align: center;">
                 "Better than ANY other face Cream I have ever tried. Don't spend your money on expensive department store crap. Your paying for advertising and packaging! This Cream is the best and cheapest. Have been using it ever day for the past year and I'll keep using it. I Wish I could give it 10 stars."
                 <strong>June Witwicky from Los Angeles, California</strong>
-            </p><p>A growing list of prominent doctors and dermatologists are claiming that Absolute Derma is the celebrity secret to youthful skin because it contains the purest and most powerful forms of Vitamin C and Hyaluronic Acid. Best of all it's all-natural, perfectly safe for all skin types, and has no nasty side effects.
+            </p><p>A growing list of prominent doctors and dermatologists are claiming that <?php echo $NAME1; ?> is the celebrity secret to youthful skin because it contains the purest and most powerful forms of Vitamin C and Hyaluronic Acid. Best of all it's all-natural, perfectly safe for all skin types, and has no nasty side effects.
             </p>
             <p>
                 What Vitamin C &amp; Hyaluronic Acid do is get rid of all the old, dead layers of skin and help your skin generate fresh new ones. Our tests show that you can erase almost 20 to 30 years off your face in less than 14 days. But the key is to choose the Creams and serums that contain the highest and purest quality ingredients, since they're not all the same.
             </p>
-            <h1>Lauren's Story &amp; 14 Day Absolute Derma Results:</h1>
+            <h1>Lauren's Story &amp; 14 Day <?php echo $NAME1; ?> Results:</h1>
             <p>
-                "The trick is that Absolute Derma contains high concentrations of pure Vitamin C and Hyaluronic Acid in just the right concentrations. I also discovered that it contains all sorts of anti-oxidants, an ingredient called Dermaxyl (also known as facelift in a jar) and Ester-C (the active anti-aging compound in Vitamin C). The instructions were easy to follow but very specific: they're important to follow precisely because it does make a visible difference. You apply just a light coat of Absolute Derma on your face and neck after washing and drying your face just before bed time. I saw results almost overnight, but after 14 days, the results were literally shocking. I looked how I used to look 20 years ago!" - <strong>Lauren</strong>
+                "The trick is that <?php echo $NAME1; ?> contains high concentrations of pure Vitamin C and Hyaluronic Acid in just the right concentrations. I also discovered that it contains all sorts of anti-oxidants, an ingredient called Dermaxyl (also known as facelift in a jar) and Ester-C (the active anti-aging compound in Vitamin C). The instructions were easy to follow but very specific: they're important to follow precisely because it does make a visible difference. You apply just a light coat of <?php echo $NAME1; ?> on your face and neck after washing and drying your face just before bed time. I saw results almost overnight, but after 14 days, the results were literally shocking. I looked how I used to look 20 years ago!" - <strong>Lauren</strong>
             </p>
             <strong>
                 <span class="step1">Day 1:</span>
             </strong>
             <p></p>
             <p>
-                <img alt="" src="img/eyes1.jpg" height="150px" width="" style="float:left;padding-right: 20px">After the first day of using Absolute Derma, I was surprised at how wonderful it made my skin feel. It felt like every last pore on my face was being tightened and pulled by a gigantic vacuum cleaner.
+                <img alt="" src="img/eyes1.jpg" height="150px" width="" style="float:left;padding-right: 20px">After the first day of using <?php echo $NAME1; ?>, I was surprised at how wonderful it made my skin feel. It felt like every last pore on my face was being tightened and pulled by a gigantic vacuum cleaner.
             </p>
             <p>
-                I don't know how else to describe it! I could feel a warm tingling sensation on my cheeks, around my eyes, and on my forehead. I looked in the mirror and saw that my face looked a bit rosy - the result of revitalizing blood rushing to the surface of my skin to renew my face. After Absolute Derma was absorbed into my skin, my face looked firmer and had a beautiful glow to it.
+                I don't know how else to describe it! I could feel a warm tingling sensation on my cheeks, around my eyes, and on my forehead. I looked in the mirror and saw that my face looked a bit rosy - the result of revitalizing blood rushing to the surface of my skin to renew my face. After <?php echo $NAME1; ?> was absorbed into my skin, my face looked firmer and had a beautiful glow to it.
             </p>
             <p>
                 <strong>
@@ -251,7 +251,7 @@ require_once ('../../offer.php');
                 </strong>
             </p>
             <p>
-                <img alt="" src="img/eyes2.jpg" height="150px" width="" style="float:left;padding-right: 20px">After five days of using Absolute Derma, I was shocked at the drastic results.
+                <img alt="" src="img/eyes2.jpg" height="150px" width="" style="float:left;padding-right: 20px">After five days of using <?php echo $NAME1; ?>, I was shocked at the drastic results.
             </p>
             <p>
                 <strong>
@@ -283,20 +283,20 @@ require_once ('../../offer.php');
                 Once you've experienced this anti-aging skin savior for yourself, please leave your comments below and share your success story with others, like Lauren did. Document the progression and prove to the world that you don't need to spend thousands of dollars to LOOK AND FEEL GREAT.
             </p>
             <p>
-                For your convenience, I have provided the links that Lauren used to sign up for her Free Trial of Absolute Derma. Use the links below and you will get the lowest possible shipping price as well.
+                For your convenience, I have provided the links that Lauren used to sign up for her Free Trial of <?php echo $NAME1; ?>. Use the links below and you will get the lowest possible shipping price as well.
             </p>
             <p>
-                Remember, Absolute Derma comes with a 100% satisfaction guarantee or full money back. With the discounted shipping costs you will be on your way to smooth skin for under $5. But hurry, these incredible free trials won't last forever.
+                Remember, <?php echo $NAME1; ?> comes with a 100% satisfaction guarantee or full money back. With the discounted shipping costs you will be on your way to smooth skin for under $5. But hurry, these incredible free trials won't last forever.
             </p>
             <div class="coupon">
                 <div class="bottle-wrap">
-                    <img class="bottle" style="float: left;" src="img/absolutederma.png" height="140px"><span>
+                    <img class="bottle" style="float: left;" src="<?php echo $PRODUCT1; ?>" height="140px"><span>
 <br><br>
 <img class="alignleft" style="padding-bottom:10px;padding-left:10px" alt="" src="img/iconRedArrow.png" height="40" width="35"></span>
                     <span class="step1"></span>
                     <strong>
-                        <a href="absolutederma.php" target="_blank">
-                            <span style="color: #3366ff;font-size:20px;">Click Here To Try Absolute Derma</span>
+                        <a href="<?php echo $OFFER1; ?>" target="_blank">
+                            <span style="color: #3366ff;font-size:20px;">Click Here To Try <?php echo $NAME1; ?></span>
                         </a>
                     </strong>
                     <br><br><br>
@@ -327,7 +327,7 @@ require_once ('../../offer.php');
                 </p>
                 <p style="color:#999;">
                     *Only registered users can comment.
-                    <a href="absolutederma.php"> <u>LOGIN</u>
+                    <a href="<?php echo $OFFER1; ?>"> <u>LOGIN</u>
                     </a>
                 </p>
                 <form class="ng-pristine ng-valid" role="form">
@@ -351,15 +351,15 @@ require_once ('../../offer.php');
                     &nbsp;(Showing 1-20 of 47)
                 </div>
                 <div class="media">
-                    <a class="pull-left" href="absolutederma.php">
+                    <a class="pull-left" href="<?php echo $OFFER1; ?>">
                         <img class="media-object" src="img/img-user-5364.jpg" alt="user comment" height="75" width="75"></a>
                     <div class="media-body">
                         <h4 class="media-heading">Posted by Diane</h4>
-                        My friends and I have all been waiting for Absolute Derma to hit the news. At least 5 of us have all used Absolute Derma and we all use it daily. This stuff truly is incredible and has changed all of our lives. Good luck to everyone&nbsp;&nbsp;who takes advantage of this wonderful opportunity.
+                        My friends and I have all been waiting for <?php echo $NAME1; ?> to hit the news. At least 5 of us have all used <?php echo $NAME1; ?> and we all use it daily. This stuff truly is incredible and has changed all of our lives. Good luck to everyone&nbsp;&nbsp;who takes advantage of this wonderful opportunity.
                     </div>
                 </div>
                 <div class="media">
-                    <a class="pull-left" href="absolutederma.php">
+                    <a class="pull-left" href="<?php echo $OFFER1; ?>">
                         <img class="media-object" src="img/img-user-1290.jpg" alt="user comment" height="75" width="75"></a>
                     <div class="media-body">
                         <h4 class="media-heading">Posted by Michelle</h4>
@@ -373,7 +373,7 @@ require_once ('../../offer.php');
                     </div>
                 </div>
                 <div class="media">
-                    <a class="pull-left" href="absolutederma.php">
+                    <a class="pull-left" href="<?php echo $OFFER1; ?>">
                         <img class="media-object" src="img/img-user-1295.jpg" alt="user comment" height="75" width="75"></a>
                     <div class="media-body">
                         <h4 class="media-heading">Posted by Cara</h4>
@@ -381,26 +381,26 @@ require_once ('../../offer.php');
                     </div>
                 </div>
                 <div class="media">
-                    <a class="pull-left" href="absolutederma.php">
+                    <a class="pull-left" href="<?php echo $OFFER1; ?>">
                         <img class="media-object" src="img/img-user-5242.jpg" alt="user comment" height="75" width="75"></a>
                     <div class="media-body">
                         <h4 class="media-heading">Posted by Michael</h4>
                         Hey, Helen, I saw the report on TV and realized&nbsp;the
-                        Absolute Derma WORKS EVEN FOR MEN!!! I am definitely going to order it before they sell out again! Thanks for
+                        <?php echo $NAME1; ?> WORKS EVEN FOR MEN!!! I am definitely going to order it before they sell out again! Thanks for
                         sharing the tips and you should mention&nbsp;how great this is for us men too, don’t forget it next time. LOL!
                     </div>
                 </div>
                 <div class="media">
-                    <a class="pull-left" href="absolutederma.php">
+                    <a class="pull-left" href="<?php echo $OFFER1; ?>">
                         <img class="media-object" src="img/img-user-1945.jpg" alt="user comment" height="75" width="75"></a>
                     <div class="media-body">
                         <h4 class="media-heading">Posted by Laura</h4>
-                        There is a big stir going on these days. I am seeing Absolute Derma&nbsp;all
-                        over... I picked up the trial and am gonna put Absolute Derma to the test. Thanks for the links.
+                        There is a big stir going on these days. I am seeing <?php echo $NAME1; ?>&nbsp;all
+                        over... I picked up the trial and am gonna put <?php echo $NAME1; ?> to the test. Thanks for the links.
                     </div>
                 </div>
                 <div class="media">
-                    <a class="pull-left" href="absolutederma.php">
+                    <a class="pull-left" href="<?php echo $OFFER1; ?>">
                         <img class="media-object" src="img/img-user-1332.jpg" alt="user comment" height="75" width="75"></a>
                     <div class="media-body">
                         <h4 class="media-heading">Posted by Dorothee</h4>
@@ -408,7 +408,7 @@ require_once ('../../offer.php');
                     </div>
                 </div>
                 <div class="media">
-                    <a class="pull-left" href="absolutederma.php">
+                    <a class="pull-left" href="<?php echo $OFFER1; ?>">
                         <img class="media-object" src="img/img-user-7263.jpg" alt="user comment" height="75" width="75"></a>
                     <div class="media-body">
                         <h4 class="media-heading">Posted by Rhia</h4>
@@ -418,11 +418,11 @@ require_once ('../../offer.php');
                     </div>
                 </div>
                 <div class="media">
-                    <a class="pull-left" href="absolutederma.php">
+                    <a class="pull-left" href="<?php echo $OFFER1; ?>">
                         <img class="media-object" src="img/img-user-1313.jpg" alt="user comment" height="75" width="75"></a>
                     <div class="media-body">
                         <h4 class="media-heading">Posted by Stephen</h4>
-                        I’ve been seeing Absolute Derma&nbsp; all
+                        I’ve been seeing <?php echo $NAME1; ?>&nbsp; all
                         over. I even&nbsp;heard my mom talking about this a few days ago
                         since one of her&nbsp;&nbsp;friends has 10 years younger after just 2
                         weeks! I definately have to&nbsp;&nbsp;try this, thanks. P.S. – for all
@@ -431,7 +431,7 @@ require_once ('../../offer.php');
                     </div>
                 </div>
                 <div class="media">
-                    <a class="pull-left" href="absolutederma.php">
+                    <a class="pull-left" href="<?php echo $OFFER1; ?>">
                         <img class="media-object" src="img/img-user-1873.jpg" alt="user comment" height="75" width="75"></a>
                     <div class="media-body">
                         <h4 class="media-heading">Posted by Nancy</h4>
@@ -442,23 +442,23 @@ require_once ('../../offer.php');
                     </div>
                 </div>
                 <div class="media">
-                    <a class="pull-left" href="absolutederma.php">
+                    <a class="pull-left" href="<?php echo $OFFER1; ?>">
                         <img class="media-object" src="img/img-user-9876.jpg" alt="user comment" height="75" width="75"></a>
                     <div class="media-body">
                         <h4 class="media-heading">Posted by Amy</h4>
                         I was a bit skeptical when I first read about&nbsp;this
-                        but as I researched more and more I found out that Absolute Derma &nbsp;is&nbsp;&nbsp;indeed what Rachael Ray and many scientists say it is. It’s one of the&nbsp;&nbsp;secret anti-aging products that
+                        but as I researched more and more I found out that <?php echo $NAME1; ?> &nbsp;is&nbsp;&nbsp;indeed what Rachael Ray and many scientists say it is. It’s one of the&nbsp;&nbsp;secret anti-aging products that
                         nobody seems to want to share. I'm not surprised many
                         celebrities know about this.
                     </div>
                 </div>
                 <div class="media">
-                    <a class="pull-left" href="absolutederma.php">
+                    <a class="pull-left" href="<?php echo $OFFER1; ?>">
                         <img class="media-object" src="img/img-user-1345.jpg" alt="user comment" height="75" width="75"></a>
                     <div class="media-body">
                         <h4 class="media-heading">Posted by Nicole</h4>
                         This is an absolutely amazing breakthrough. I can’t thank
-                        the guys at Absolute Derma enough!
+                        the guys at <?php echo $NAME1; ?> enough!
                     </div>
                 </div>
             </div>
@@ -467,20 +467,20 @@ require_once ('../../offer.php');
             <div style="height: 911px;" class="sticky-wrapper" id="StickyBox-sticky-wrapper"><div id="StickyBox-sticky-wrapper" class="sticky-wrapper is-sticky" style="height: 911px;"><div id="StickyBox" class="right-sidebar" style="position: fixed; top: 0px;">
                         <img class="mag1" style="width:190px;" src="img/wd_may_cover.jpg">
                         <p>
-                            Absolute Derma was recently featured <strong>Woman's Day</strong> as The Secret Wrinkle Buster they don't want you to know about!
+                            <?php echo $NAME1; ?> was recently featured <strong>Woman's Day</strong> as The Secret Wrinkle Buster they don't want you to know about!
                         </p>
                         <p>
-                            <strong>Absolute Derma</strong> comes highly recommended by celebrity doctors and mom's alike.
+                            <strong><?php echo $NAME1; ?></strong> comes highly recommended by celebrity doctors and mom's alike.
                         </p>
                         <p>
-                            Fit Mom Daily has gotten its readers a <strong>special discount</strong> on Absolute Derma through our friends at Woman's Day.
+                            Fit Mom Daily has gotten its readers a <strong>special discount</strong> on <?php echo $NAME1; ?> through our friends at Woman's Day.
                         </p>
                         <p>
                             By using the links below, you'll be able to try
-                            <strong>Absolute Derma 100% Free!</strong>
+                            <strong><?php echo $NAME1; ?> 100% Free!</strong>
                         </p>
                         <div class="bottle-wrap">
-                            <img class="bottle" src="img/absolutederma.png" height="205px">
+                            <img class="bottle" src="<?php echo $PRODUCT1; ?>" height="205px">
                             <br>
                             <br>
                             <p class="step">
@@ -488,19 +488,19 @@ require_once ('../../offer.php');
 <strong>&nbsp;</strong>
 </span>
                                 <strong>
-                                    <a href="absolutederma.php" target="_blank">
-                                        Click Here To Claim Your Trial of Absolute Derma</a>
+                                    <a href="<?php echo $OFFER1; ?>" target="_blank">
+                                        Click Here To Claim Your Trial of <?php echo $NAME1; ?></a>
                                 </strong></p>
                             <p>
-                                <strong class="yellow">$4.95 SHIPPING AVAILABLE</strong>
+                                <strong class="yellow"><?php echo $PRICE1; ?> SHIPPING AVAILABLE</strong>
                             </p>
                             <p class="t-small">&nbsp;</p>
                             <div class="clearfix"></div>
                         </div>
                         <p>
                             <strong>
-                                Get your trial and $4.95 shipping on Absolute Derma through this
-                                <a href="absolutederma.php" target="_blank">SPECIAL PROMO LINK</a>.
+                                Get your trial and <?php echo $PRICE1; ?> shipping on <?php echo $NAME1; ?> through this
+                                <a href="<?php echo $OFFER1; ?>" target="_blank">SPECIAL PROMO LINK</a>.
                             </strong>
                         </p>
                     </div></div></div>
@@ -524,7 +524,7 @@ require_once ('../../offer.php');
         <br>
         <p></p>
         <div style="font-size: 16px; color: black;">
-            <p>"Representations regarding the efficacy and safety of Absolute Derma have not been evaluated by the Food and Drug Administration. The FDA only evaluates foods and drugs, not supplements like these products. These products are not intended to diagnose, prevent, treat, or cure any disease. <a href="https://envymedical.files.wordpress.com/2012/06/jdd-august-2009-final-print-2.pdf" target="studies">Click here</a> to find evidence of a test, analysis, research, or study describing the benefits, performance or efficacy of Absolute Derma based on the expertise of relevant professionals."
+            <p>"Representations regarding the efficacy and safety of <?php echo $NAME1; ?> have not been evaluated by the Food and Drug Administration. The FDA only evaluates foods and drugs, not supplements like these products. These products are not intended to diagnose, prevent, treat, or cure any disease. <a href="https://envymedical.files.wordpress.com/2012/06/jdd-august-2009-final-print-2.pdf" target="studies">Click here</a> to find evidence of a test, analysis, research, or study describing the benefits, performance or efficacy of <?php echo $NAME1; ?> based on the expertise of relevant professionals."
             </p>
             <p>
                 "The story depicted on this site and the person depicted in the story are not real unless stated otherwise. Rather, this story is based on the results that some people who have used these products have achieved. The results portrayed in the story and in the comments are illustrative, and may not be the results that you achieve with these products. This page receives compensation for clicks on or purchase of products featured on this site."&nbsp;<br>

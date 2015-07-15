@@ -1,5 +1,5 @@
 <?php
-require_once('../../offer.php');
+require_once('../offer.php');
 ?>
 
 <!DOCTYPE html>
@@ -42,15 +42,15 @@ require_once('../../offer.php');
         <div class="col-md-3 hidden-xs" style="color:#CCC;text-align:center;"></div>
         <div class="col-md-6 hidden-xs hidden-sm" id="banner">
             <div align="right">
-                <a href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ"
+                <a href="<?php echo $OFFER1; ?>"
                    target="_blank"><img src="img/banner-468-60.jpg" style="max-width:468px;"
                                         class="img-responsive hidden-xs"></a></div>
             <div>
                 <div class="hidden-xs" align="right">
-                    <a href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ"
+                    <a href="<?php echo $OFFER1; ?>"
                        target="_blank">REGISTER</a>
                     |
-                    <a href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ"
+                    <a href="<?php echo $OFFER1; ?>"
                        target="_blank">LOGIN</a>
                 </div>
             </div>
@@ -65,7 +65,7 @@ require_once('../../offer.php');
                     <span class="icon-bar"></span>
                 </button>
                 <a target="_blank" class="navbar-brand ng-binding"
-                   href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ"
+                   href="<?php echo $OFFER1; ?>"
                    style="font-size:12px;">
                     Updated:
                     <script language="Javascript">
@@ -94,31 +94,31 @@ require_once('../../offer.php');
         <div class="collapse navbar-collapse" style="padding:0;margin:0;margin-top:10px;">
             <ul id="navi">
                 <li>
-                    <a href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ"
+                    <a href="<?php echo $OFFER1; ?>"
                        target="_blank">Home</a>
                 </li>
                 <li>
-                    <a href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ"
+                    <a href="<?php echo $OFFER1; ?>"
                        target="_blank">Fitness</a>
                 </li>
                 <li>
-                    <a href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ"
+                    <a href="<?php echo $OFFER1; ?>"
                        target="_blank">Gossip</a>
                 </li>
                 <li>
-                    <a href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ"
+                    <a href="<?php echo $OFFER1; ?>"
                        target="_blank">Recipes</a>
                 </li>
                 <li>
-                    <a href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ"
+                    <a href="<?php echo $OFFER1; ?>"
                        target="_blank">Yoga</a>
                 </li>
                 <li>
-                    <a href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ"
+                    <a href="<?php echo $OFFER1; ?>"
                        target="_blank">Parenting</a>
                 </li>
                 <li>
-                    <a href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ"
+                    <a href="<?php echo $OFFER1; ?>"
                        target="_blank">Fashion</a>
                 </li>
             </ul>
@@ -130,9 +130,9 @@ require_once('../../offer.php');
         <div class="hidden-xs">
             <div class="upper-row">
                 <div class="breadcrumbs">
-                    <a href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ"
+                    <a href="<?php echo $OFFER1; ?>"
                        target="_blank">HOME</a> &gt; <a
-                        href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ"
+                        href="<?php echo $OFFER1; ?>"
                         target="_blank">Anti-Aging</a></div>
                 <div class="fit-date ng-binding">
                     <script language="Javascript">
@@ -187,14 +187,14 @@ require_once('../../offer.php');
                 <img style="width:15px;height:15px;verticle-align:middle;" src="img/pageviews.jpg" alt="views"
                      title="views" height="15" width="15">
 <span style="color:#ff0000;vertical-align:middle;">
-<a href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ"
+<a href="<?php echo $OFFER1; ?>"
    target="_blank" style="color:#ff0000;">2,391,558</a>
 </span>
                 |
                 <img style="width:15px;height:15px;verticle-align:middle;" src="img/comments.jpg" alt="comments"
                      title="comments" height="15" width="15">
 <span style="color:#124878;vertical-align:middle;">
-<a href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ"
+<a href="<?php echo $OFFER1; ?>"
    target="_blank" style="color:#124878;">656</a>
 </span>
                 - Let's not waste any time--Kate has told you everything you need to know. Many have tried to discover
@@ -256,28 +256,28 @@ require_once('../../offer.php');
             <p>
                 After a year of doing thorough research and speaking to other women about their own skincare habits, she
                 learned of a product that was yielding real results and helping women take years off their skin: <a
-                    href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ"
-                    target="_blank">Vitier Anti-Aging Cream and Vitier Eye Serum</a>.
+                    href="<?php echo $OFFER1; ?>"
+                    target="_blank"><?php echo $NAME1; ?> and Vitier Eye Serum</a>.
             </p>
 
             <p>
                 After only a few days of adding <a
-                    href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ"
-                    target="_blank">Vitier Anti-Aging Cream and Vitier Eye Serum</a> to her daily skin routine, she saw
+                    href="<?php echo $OFFER1; ?>"
+                    target="_blank"><?php echo $NAME1; ?> and Vitier Eye Serum</a> to her daily skin routine, she saw
                 noticeable results in the mirror. After just two weeks the proof was staring her right in the face: this
                 was giving her real results.
             </p>
 
             <p>
                 Using <a
-                    href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ"
-                    target="_blank">Vitier Anti-Aging Cream and Vitier Eye Serum</a>, Lauren's results were noticeably
+                    href="<?php echo $OFFER1; ?>"
+                    target="_blank"><?php echo $NAME1; ?> and Vitier Eye Serum</a>, Lauren's results were noticeably
                 better than what you'd find at medi-spas for $5,000 or more. This removed virtually 90% of all her
                 wrinkles and problem areas. It tightened her face and neck, removing all signs of sagging, aging, and
                 dehydrated skin. Lauren was able to see these dramatic anti-aging results simply by using a <strong>free
                     sample of <a
-                        href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ"
-                        target="_blank">Vitier Anti-Aging Cream and Vitier Eye Serum</a> for only 14 days</strong>.
+                        href="<?php echo $OFFER1; ?>"
+                        target="_blank"><?php echo $NAME1; ?> and Vitier Eye Serum</a> for only 14 days</strong>.
             </p>
 
             <p>
@@ -297,8 +297,8 @@ require_once('../../offer.php');
 
             <p>
                 Through her research, Lauren discovered that the real secret to <a
-                    href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ"
-                    target="_blank">Vitier Anti-Aging Cream and Vitier Eye Serum</a> are two key ingredients:
+                    href="<?php echo $OFFER1; ?>"
+                    target="_blank"><?php echo $NAME1; ?> and Vitier Eye Serum</a> are two key ingredients:
             </p>
             <ul>
                 <li>
@@ -332,7 +332,7 @@ require_once('../../offer.php');
 
             <p>
                 After seeing Lauren on the Dr Oz show a growing list of A-list celebrities that appear to be ditching
-                their expensive Botox treatments for Vitier Anti-Aging Cream and Vitier Eye Serum include: Kim
+                their expensive Botox treatments for <?php echo $NAME1; ?> and Vitier Eye Serum include: Kim
                 Kardashian and Kate Middleton:
             </p>
             <img class="contentImage" style="max-width:100%;" alt="" src="img/kimbotox.jpg" width="550px">
@@ -356,9 +356,9 @@ require_once('../../offer.php');
 
             <p style="text-align: center;">
                 "I am 57 years old and I do NOT expect any lotion or Cream to make me look as I did in my 20's; however
-                if I use Vitier Anti-Aging Cream and Vitier Eye Serum on a regular basis I absolutely can tell a
+                if I use <?php echo $NAME1; ?> and Vitier Eye Serum on a regular basis I absolutely can tell a
                 difference in my skin tone and the overall appearance of my complexion. I checked it out and the reviews
-                were great so I decided to give it a try. Vitier Anti-Aging Cream and Vitier Eye Serum is light,
+                were great so I decided to give it a try. <?php echo $NAME1; ?> and Vitier Eye Serum is light,
                 fragrance free, &amp; non-greasy. It has a fair amount of retinol, green tea, and Vitamin C plus it is
                 packaged properly so that the beneficial ingredients are not exposed to the light, air, &amp; bacteria
                 that destroys them. The free trial was great, it allowed me to try it before I bought it.." <strong>Zoe
@@ -388,15 +388,15 @@ require_once('../../offer.php');
                 quality ingredients, since they're not all the same.
             </p>
 
-            <h1>Lauren's Story &amp; 14 Day Vitier Anti-Aging Cream and Vitier Eye Serum Results:</h1>
+            <h1>Lauren's Story &amp; 14 Day <?php echo $NAME1; ?> and Vitier Eye Serum Results:</h1>
 
             <p>
-                "The trick is that Vitier Anti-Aging Cream and Vitier Eye Serum contains high concentrations of pure
+                "The trick is that <?php echo $NAME1; ?> and Vitier Eye Serum contains high concentrations of pure
                 Vitamin C and Hyaluronic Acid in just the right concentrations. I also discovered that it contains all
                 sorts of anti-oxidants, an ingredient called Dermaxyl (also known as facelift in a jar) and Ester-C (the
                 active anti-aging compound in Vitamin C). The instructions were easy to follow but very specific:
                 they're important to follow precisely because it does make a visible difference. You apply just a light
-                coat of Vitier Anti-Aging Cream and Vitier Eye Serum on your face and neck after washing and drying your
+                coat of <?php echo $NAME1; ?> and Vitier Eye Serum on your face and neck after washing and drying your
                 face just before bed time. I saw results almost overnight, but after 14 days, the results were literally
                 shocking. I looked how I used to look 20 years ago!" - <strong>Lauren</strong>
             </p>
@@ -408,7 +408,7 @@ require_once('../../offer.php');
 
             <p>
                 <img alt="" src="img/eyes1.jpg" height="150px" width="" style="float:left;padding-right: 20px">After
-                the first day of using Vitier Anti-Aging Cream and Vitier Eye Serum, I was surprised at how wonderful it
+                the first day of using <?php echo $NAME1; ?> and Vitier Eye Serum, I was surprised at how wonderful it
                 made my skin feel. It felt like every last pore on my face was being tightened and pulled by a gigantic
                 vacuum cleaner.
             </p>
@@ -416,7 +416,7 @@ require_once('../../offer.php');
             <p>
                 I don't know how else to describe it! I could feel a warm tingling sensation on my cheeks, around my
                 eyes, and on my forehead. I looked in the mirror and saw that my face looked a bit rosy - the result of
-                revitalizing blood rushing to the surface of my skin to renew my face. After Vitier Anti-Aging Cream and
+                revitalizing blood rushing to the surface of my skin to renew my face. After <?php echo $NAME1; ?> and
                 Vitier Eye Serum was absorbed into my skin, my face looked firmer and had a beautiful glow to it.
             </p>
 
@@ -428,7 +428,7 @@ require_once('../../offer.php');
 
             <p>
                 <img alt="" src="img/eyes2.jpg" height="150px" width="" style="float:left;padding-right: 20px">After
-                five days of using Vitier Anti-Aging Cream and Vitier Eye Serum, I was shocked at the drastic results.
+                five days of using <?php echo $NAME1; ?> and Vitier Eye Serum, I was shocked at the drastic results.
             </p>
 
             <p>
@@ -490,22 +490,22 @@ require_once('../../offer.php');
             </p>
 
             <p>
-                Remember, Vitier Anti-Aging Cream and Vitier Eye Serum comes with a 100% satisfaction guarantee or full
+                Remember, <?php echo $NAME1; ?> and Vitier Eye Serum comes with a 100% satisfaction guarantee or full
                 money back. With the discounted shipping costs you will be on your way to smooth skin for under $5. But
                 hurry, these incredible free trials won't last forever.
             </p>
 
             <div class="coupon">
                 <div class="bottle-wrap">
-                    <img class="bottle" style="float: left;" src="img/vitier.jpg" height="145px"><span>
+                    <img class="bottle" style="float: left;" src="<?php echo $PRODUCT1; ?>" height="145px"><span>
 <br><br>
 <img class="alignleft" style="padding-bottom:10px;pading-left:10px" alt="" src="img/iconredarrow.png" height="40"
      width="35"></span>
                     <span class="step1"></span>
                     <strong>
-                        <a href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ"
+                        <a href="<?php echo $OFFER1; ?>"
                            target="_blank">
-                            <span style="color: #3366ff;font-size:20px;">Click Here To Try Vitier Anti-Aging Cream and Vitier Eye Serum</span>
+                            <span style="color: #3366ff;font-size:20px;">Click Here To Try <?php echo $NAME1; ?> and Vitier Eye Serum</span>
                         </a>
                     </strong>
                     <br><br><br>
@@ -543,7 +543,7 @@ require_once('../../offer.php');
 
                 <p style="color:#999;">
                     *Only registered users can comment.
-                    <a href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ">
+                    <a href="<?php echo $OFFER1; ?>">
                         <u>LOGIN</u>
                     </a>
                 </p>
@@ -570,21 +570,21 @@ require_once('../../offer.php');
                 </div>
                 <div class="media">
                     <a class="pull-left"
-                       href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ">
+                       href="<?php echo $OFFER1; ?>">
                         <img class="media-object" src="img/img-user-5364.jpg" alt="user comment" height="75"
                              width="75"></a>
 
                     <div class="media-body">
                         <h4 class="media-heading">Posted by Diane</h4>
-                        My friends and I have all been waiting for Vitier Anti-Aging Cream and Vitier Eye Serum to hit
-                        the news. At least 5 of us have all used Vitier Anti-Aging Cream and Vitier Eye Serum and we allsrc="images/
+                        My friends and I have all been waiting for <?php echo $NAME1; ?> and Vitier Eye Serum to hit
+                        the news. At least 5 of us have all used <?php echo $NAME1; ?> and Vitier Eye Serum and we allsrc="images/
                         use it daily. This stuff truly is incredible and has changed all of our lives. Good luck to
                         everyone&nbsp;&nbsp;who takes advantage of this wonderful opportunity.
                     </div>
                 </div>
                 <div class="media">
                     <a class="pull-left"
-                       href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ">
+                       href="<?php echo $OFFER1; ?>">
                         <img class="media-object" src="img/img-user-1290.jpg" alt="user comment" height="75"
                              width="75"></a>
 
@@ -601,7 +601,7 @@ require_once('../../offer.php');
                 </div>
                 <div class="media">
                     <a class="pull-left"
-                       href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ">
+                       href="<?php echo $OFFER1; ?>">
                         <img class="media-object" src="img/img-user-1295.jpg" alt="user comment" height="75"
                              width="75"></a>
 
@@ -613,14 +613,14 @@ require_once('../../offer.php');
                 </div>
                 <div class="media">
                     <a class="pull-left"
-                       href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ">
+                       href="<?php echo $OFFER1; ?>">
                         <img class="media-object" src="img/img-user-5242.jpg" alt="user comment" height="75"
                              width="75"></a>
 
                     <div class="media-body">
                         <h4 class="media-heading">Posted by Michael</h4>
                         Hey, Helen, I saw the report on TV and realized&nbsp;the
-                        Vitier Anti-Aging Cream and Vitier Eye Serum WORKS EVEN FOR MEN!!! I am definitely going to
+                        <?php echo $NAME1; ?> and Vitier Eye Serum WORKS EVEN FOR MEN!!! I am definitely going to
                         order it before they sell out again! Thanks for
                         sharing the tips and you should mention&nbsp;how great this is for us men too, don’t forget it
                         next time. LOL!
@@ -628,21 +628,21 @@ require_once('../../offer.php');
                 </div>
                 <div class="media">
                     <a class="pull-left"
-                       href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ">
+                       href="<?php echo $OFFER1; ?>">
                         <img class="media-object" src="img/img-user-1945.jpg" alt="user comment" height="75"
                              width="75"></a>
 
                     <div class="media-body">
                         <h4 class="media-heading">Posted by Laura</h4>
-                        There is a big stir going on these days. I am seeing Vitier Anti-Aging Cream and Vitier Eye
+                        There is a big stir going on these days. I am seeing <?php echo $NAME1; ?> and Vitier Eye
                         Serum&nbsp;all
-                        over... I picked up the trial and am gonna put Vitier Anti-Aging Cream and Vitier Eye Serum to
+                        over... I picked up the trial and am gonna put <?php echo $NAME1; ?> and Vitier Eye Serum to
                         the test. Thanks for the links.
                     </div>
                 </div>
                 <div class="media">
                     <a class="pull-left"
-                       href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ">
+                       href="<?php echo $OFFER1; ?>">
                         <img class="media-object" src="img/img-user-1332.jpg" alt="user comment" height="75"
                              width="75"></a>
 
@@ -654,7 +654,7 @@ require_once('../../offer.php');
                 </div>
                 <div class="media">
                     <a class="pull-left"
-                       href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ">
+                       href="<?php echo $OFFER1; ?>">
                         <img class="media-object" src="img/img-user-7263.jpg" alt="user comment" height="75"
                              width="75"></a>
 
@@ -668,13 +668,13 @@ require_once('../../offer.php');
                 </div>
                 <div class="media">
                     <a class="pull-left"
-                       href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ">
+                       href="<?php echo $OFFER1; ?>">
                         <img class="media-object" src="img/img-user-1313.jpg" alt="user comment" height="75"
                              width="75"></a>
 
                     <div class="media-body">
                         <h4 class="media-heading">Posted by Stephen</h4>
-                        I’ve been seeing Vitier Anti-Aging Cream and Vitier Eye Serum&nbsp; all
+                        I’ve been seeing <?php echo $NAME1; ?> and Vitier Eye Serum&nbsp; all
                         over. I even&nbsp;heard my mom talking about this a few days ago
                         since one of her&nbsp;&nbsp;friends has 10 years younger after just 2
                         weeks! I definately have to&nbsp;&nbsp;try this, thanks. P.S. – for all
@@ -684,7 +684,7 @@ require_once('../../offer.php');
                 </div>
                 <div class="media">
                     <a class="pull-left"
-                       href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ">
+                       href="<?php echo $OFFER1; ?>">
                         <img class="media-object" src="img/img-user-1873.jpg" alt="user comment" height="75"
                              width="75"></a>
 
@@ -699,14 +699,14 @@ require_once('../../offer.php');
                 </div>
                 <div class="media">
                     <a class="pull-left"
-                       href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ">
+                       href="<?php echo $OFFER1; ?>">
                         <img class="media-object" src="img/img-user-9876.jpg" alt="user comment" height="75"
                              width="75"></a>
 
                     <div class="media-body">
                         <h4 class="media-heading">Posted by Amy</h4>
                         I was a bit skeptical when I first read about&nbsp;this
-                        but as I researched more and more I found out that Vitier Anti-Aging Cream and Vitier Eye Serum
+                        but as I researched more and more I found out that <?php echo $NAME1; ?> and Vitier Eye Serum
                         &nbsp;is&nbsp;&nbsp;indeed what Rachael Ray and many scientists say it is. It’s one of the&nbsp;&nbsp;secret
                         anti-aging products that
                         nobody seems to want to share. I'm not surprised many
@@ -715,14 +715,14 @@ require_once('../../offer.php');
                 </div>
                 <div class="media">
                     <a class="pull-left"
-                       href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ">
+                       href="<?php echo $OFFER1; ?>">
                         <img class="media-object" src="img/img-user-1345.jpg" alt="user comment" height="75"
                              width="75"></a>
 
                     <div class="media-body">
                         <h4 class="media-heading">Posted by Nicole</h4>
                         This is an absolutely amazing breakthrough. I can’t thank
-                        the guys at Vitier Anti-Aging Cream and Vitier Eye Serum enough!
+                        the guys at <?php echo $NAME1; ?> and Vitier Eye Serum enough!
                     </div>
                 </div>
             </div>
@@ -735,12 +735,12 @@ require_once('../../offer.php');
                             <img class="mag1" style="width:190px;" src="img/wd_may_cover.jpg">
 
                             <p>
-                                Vitier Anti-Aging Cream and Vitier Eye Serum was recently featured <strong>Woman's
+                                <?php echo $NAME1; ?> and Vitier Eye Serum was recently featured <strong>Woman's
                                     Day</strong> as The Secret Wrinkle Buster they don't want you to know about!
                             </p>
 
                             <p>
-                                <strong>Vitier Anti-Aging Cream and Vitier Eye Serum</strong> comes highly recommended
+                                <strong><?php echo $NAME1; ?> and Vitier Eye Serum</strong> comes highly recommended
                                 by celebrity doctors and mom's alike.
                             </p>
 
@@ -751,11 +751,11 @@ require_once('../../offer.php');
 
                             <p>
                                 By using the links below, you'll be able to try
-                                <strong>Vitier Anti-Aging Cream and Vitier Eye Serum 100% Free!</strong>
+                                <strong><?php echo $NAME1; ?> and Vitier Eye Serum 100% Free!</strong>
                             </p>
 
                             <div class="bottle-wrap">
-                                <img class="bottle" src="img/vitier.jpg" height="145px">
+                                <img class="bottle" src="<?php echo $PRODUCT1; ?>" height="145px">
                                 <br>
                                 <br>
 
@@ -764,14 +764,14 @@ require_once('../../offer.php');
 <strong>&nbsp;</strong>
 </span>
                                     <strong>
-                                        <a href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ"
+                                        <a href="<?php echo $OFFER1; ?>"
                                            target="_blank">
-                                            Click Here To Claim Your Trial of Vitier Anti-Aging Cream and Vitier Eye
+                                            Click Here To Claim Your Trial of <?php echo $NAME1; ?> and Vitier Eye
                                             Serum</a>
                                     </strong></p>
 
                                 <p>
-                                    <strong class="yellow">$4.95 SHIPPING AVAILABLE</strong>
+                                    <strong class="yellow"><?php echo $PRICE1; ?> SHIPPING AVAILABLE</strong>
                                 </p>
 
                                 <p class="t-small">&nbsp;</p>
@@ -780,9 +780,9 @@ require_once('../../offer.php');
                             </div>
                             <p>
                                 <strong>
-                                    Get your trial and $4.95 shipping on Vitier Anti-Aging Cream and Vitier Eye Serum
+                                    Get your trial and <?php echo $PRICE1; ?> shipping on <?php echo $NAME1; ?> and Vitier Eye Serum
                                     through this
-                                    <a href="http://affiliate.mediaclicktrker.com/rd/r.php?sid=1025&amp;pub=380735&amp;c1=&amp;c2=&amp;c3=ENJ"
+                                    <a href="<?php echo $OFFER1; ?>"
                                        target="_blank">SPECIAL PROMO LINK</a>.
                                 </strong>
                             </p>
@@ -815,12 +815,12 @@ require_once('../../offer.php');
         <p></p>
 
         <div style="font-size: 16px; color: black;">
-            <p>"Representations regarding the efficacy and safety of Vitier Anti-Aging Cream and Vitier Eye Serum have
+            <p>"Representations regarding the efficacy and safety of <?php echo $NAME1; ?> and Vitier Eye Serum have
                 not been evaluated by the Food and Drug Administration. The FDA only evaluates foods and drugs, not
                 supplements like these products. These products are not intended to diagnose, prevent, treat, or cure
                 any disease. <a href="https://pristinedermacaretrial.com/study/study.pdf" target="studies">Click
                     here</a> to find evidence of a test, analysis, research, or study describing the benefits,
-                performance or efficacy of Vitier Anti-Aging Cream and Vitier Eye Serum based on the expertise of
+                performance or efficacy of <?php echo $NAME1; ?> and Vitier Eye Serum based on the expertise of
                 relevant professionals."
             </p>
 
